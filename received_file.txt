@@ -1,0 +1,2286 @@
+5c13
+http://gowrishankar
+www.google.com
+http://mobicip.com
+<!doctype html>
+<html class="no-js" lang="en">
+    <head>
+        <meta name="google-site-verification" content="cJwvO1M0fnZjSU0Ebg0DgmknUl0sN66oGnjdNtQPZ5g" />
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title> PSG Institute of Technology and Applied Research, Coimbatore  </title>
+        <link rel="shortcut icon" href="img/psg_tech_logo_h.png" />
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        
+        <meta name="keywords" content="PSGiTech, PSG Institute of Technology and Applied Research, Top Engineering College, Ranked no.1 Engineering College in tamilnadu, PSG Tech, PSG, psg, psg tech, psgitech, psg itech, psg college at neelambur " />
+        <meta name="description" content="PSG Institute of Technology and Applied Research is one of the top best Engineering College in Coimbatore, Promotion of popular education at all levels without any reservation on the basis of sex, caste and creed, development of technical education to empower the youth, donations and charities for the poor and deprived sections of the society” Thus it can be seen that the trust has been a pioneer in this part of India in imparting quality education in arts, engineering, medicine and extending vocational training to technical personnel besides serving the society through various entrepreneurial initiatives." />
+        <link rel="stylesheet" href="css/foundation.css" />
+        <link rel="stylesheet" href="css/responsive-tables.css">
+        <link rel="stylesheet" type="text/css" href="css/custom_style.css"/>
+        <link rel="stylesheet" href="engine1/style.css">
+        <link rel="stylesheet" href="css/sass-compiled.css" />
+       <link rel="stylesheet" href="css/foundation-datepicker.min.css"> 
+        <link rel="stylesheet" href="css/main.css">
+        <link rel="stylesheet" href="css/koalapse.css">
+      <!--  <link rel="stylesheet" href="vlb_files1/vlightbox1.css" type="text/css" />
+        <link rel="stylesheet" href="vlb_files1/visuallightbox.css" type="text/css" media="screen" /> 
+       
+        <script src="vlb_engine/jquery.min.js" type="text/javascript"></script>
+        <script src="vlb_engine/visuallightbox.js" type="text/javascript"></script> 
+        <script type='text/javascript' src='scroll_top/scrolltopcontrol.js'></script>
+        <script src="js/vendor/modernizr.js"></script>
+        <script src="js/jquery-1.11.1.min.js"></script>
+        <script src="js/12.js"></script> -->
+        <link rel="stylesheet" href="css/12.css" />
+        <link rel="stylesheet" href="css/13.css" />
+<style>
+.dropdown-submenu {
+    position: relative;
+}
+
+.dropdown-submenu .dropdown-menu {
+    top: 0;
+    left: 100%;
+    margin-top: -1px;
+}
+
+.blink_me {
+  animation: blinker 1s linear infinite;
+
+}
+
+@keyframes blinker {
+  50% {
+    opacity: 0;
+  }
+}
+</style>
+        
+    </head>
+    <body>
+    <!--<center>-->
+         <div style="background-color: #ffffff;" class="navbar-fixed-top" >
+        <div class="row" >
+            <div class="large-12 medium-12 small-12 columns header_style" style="padding-bottom:0px;  padding-top: 0px;">
+               <div class="large-12 medium-12 small-12 large-only-text-right small-only-text-center columns" style="margin-top:0px; padding-left:0px;">
+                    <a class="header_link" href="index.php">Home</a> 
+                        <a class="header_link" href="parentszone.php" class="header_link">Parents Zone</a>
+                        <img src="img/new_home.gif" height="26" width="26" alt="new" /><a class="header_link" href="career.php" class="header_link">Careers</a>
+                       <a class="header_link" href="video_lectures.php">Video Lectures </a> 
+					   <a class="header_link" href="screen_reader.php">Screen Reader </a>
+                           <a href="contact.php" class="header_link">Contact Us</a>
+                            <a href="https://www.onlinesbi.com/sbicollect/icollecthome.htm?corpID=645119" target="_blank" style="color: blue;" class="blink_me" class="header_link">College / Hostel Fee Online</a>
+            </div>
+               
+            </div>
+        </div>
+        </div>
+        <div class="row">
+             <div class="large-12 medium-12 small-12 columns header_style" style="padding-bottom:0px;">
+                <div class="large-1 medium-2 small-12 small-only-text-center columns" style="padding-left:0px; padding-top:5px;">
+                    <a href="index.php"> <img src="img/psg_tech_logo.png" title="Logo" alt="Image" /></a>
+                </div>
+                <div class="large-6 medium-6 small-12 columns hide-for-small-only title_style" style="padding-left:0px;  padding-top:5px;">
+                    <div style="font-weight: bold;">
+                    PSG Institute of Technology and Applied Research
+                    </div>
+                    <div class="title_style_2"><a class="title_style_2" href="http://www.aicte-india.org/" target="_blank">Approved by AICTE, New Delhi</a>
+                        <img class="line_1" src="img/line.jpg" alt="Image" />  <a href="https://www.annauniv.edu/" class="title_style_2" target="_blank">Affiliated to Anna University, Chennai</a></div>
+
+                         <div style="font-size:16px"> 
+                      <marquee onMouseDown="this.stop()" onMouseOver="this.stop()" onMouseMove="this.stop()" onMouseOut="this.start()">
+                            Pass percentage of our students during "Apr/May 2021 - Anna University Online Examinations" is  <b>100.00%  &nbsp;</b>&nbsp;&nbsp;
+                        </marquee> 
+                    </div>  
+					<!--<div style="font-size:16px"> 
+                      <marquee onMouseDown="this.stop()" onMouseOver="this.stop()" onMouseMove="this.stop()" onMouseOut="this.start()">
+                            <a href="pdf/2022/Third_Graduation_Day.pdf" target="_blank">Third Graduation Day on 12<sup>th</sup> February 2022</a>
+                        </marquee> 
+                    </div> -->
+                      					
+					<div style="font-size:16px"> 
+                      <!--<marquee onMouseDown="this.stop()" onMouseOver="this.stop()" onMouseMove="this.stop()" onMouseOut="this.start()">-->
+                            <!--<a href="tender.php" target="_blank" style="color:#008080;" class="blink_me" ><i class="fa fa-external-link" aria-hidden="true" style="font-size:18px;color:#008080"></i> Call for Tender - 2021</a>&nbsp;&nbsp;--> <a style="color:#b53536;" ><i class="fa fa-external-link" aria-hidden="true" style="font-size:18px;color:#b53536"></i> All 5 Programs are Accredited by NBA</a>
+                       <!-- </marquee> -->
+                    </div> 
+                    
+                </div>
+                 <div class="small-12 columns show-for-small-only text-center title_style" style="padding-left:0px;">
+                     <div style="font-weight: bold;">
+                    PSG Institute of Technology and Applied Research
+                    </div>
+                    <div class="title_style_2"><a class="title_style_2" href="http://www.aicte-india.org/" target="_blank">Approved by AICTE, New Delhi</a>
+                        <img class="line_1" src="img/line.jpg" alt="Line" />  
+                        <a href="https://www.annauniv.edu/" class="title_style_2" target="_blank">Affiliated to Anna University, Chennai</a></div>
+                         <div style="font-size:16px"> 
+                        <marquee onMouseDown="this.stop()" onMouseOver="this.stop()" onMouseMove="this.stop()" onMouseOut="this.start()">
+                            Pass percentage of our students during "Apr/May 2021 - Anna University Online Examinations" is  <b>100.00% </b>&nbsp;&nbsp;
+                        </marquee>
+                    </div>
+
+                   <!--<div style="font-size:16px"> 
+                      <marquee onMouseDown="this.stop()" onMouseOver="this.stop()" onMouseMove="this.stop()" onMouseOut="this.start()">
+                              <a href="pdf/2022/Third_Graduation_Day.pdf" target="_blank">Third Graduation Day on 12<sup>th</sup> February 2022</a>
+                        </marquee> 
+                    </div>-->				
+					
+					<div style="font-size:16px"> 
+                      <!--<marquee onMouseDown="this.stop()" onMouseOver="this.stop()" onMouseMove="this.stop()" onMouseOut="this.start()"> -->
+                             <!--<a href="tender.php" target="_blank" style="color:#008080;" class="blink_me" ><i class="fa fa-external-link" aria-hidden="true" style="font-size:18px;color:#008080"></i> Call for Tender - 2021</a> <img src="img/new.gif" height="36" width="36" alt="new" /> &nbsp;&nbsp;--> <a style="color:#b53536;" ><i class="fa fa-external-link" aria-hidden="true" style="font-size:18px;color:#b53536"></i> All 5 Programs are Accredited by NBA</a>
+                        <!--</marquee> -->
+                    </div>    
+                        
+                </div> 
+<!--            </center>-->
+                <div class="large-5 medium-4 small-12 large-only-text-right small-only-text-center columns" style="margin-top:0px; padding-left:0px;">
+                  
+                    
+                    <div class="row">
+                       
+                        <div class="large-6 medium-6 small-12 large-offset-4 columns">
+                            <div class="con_style">Counselling Code : 2377</div>
+                        </div>
+                    </div>
+
+                    
+                <div class="large-6 medium-6 small-12 columns" style="width: 110%; text-align: center;">
+                        <a href="admissions.php" target="_blank" style="color: blue;">
+                            
+               <strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Admission Enquiry <strong> <!-- <img src="img/new.gif" height="36" width="36" alt="new" /> 
+--><br> 
+
+
+
+   <a href="nirf_2022.php" target="_blank" style="color: blue;">
+                            
+               <strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NIRF Documents<strong>
+                         
+                        </a>
+
+
+                  <!--  <img src="img/new.gif" height="36" width="36" alt="new" /> -->
+                    <br>
+
+  <a href="nba.php" target="_blank" style="color: blue;">
+                            
+               <strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NBA Documents<strong>
+                         
+                        </a>
+
+
+                 <!--   <img src="img/new.gif" height="36" width="36" alt="new" /> -->
+                    <br>
+                    
+                    
+                    </div> 
+                    
+                </div>
+        </div>
+           
+            <!--
+            
+   <center>
+                 
+                    <img src="img/new.gif" height="36" width="36" alt="new" />
+                    
+                <a href="admissions.php" target="_blank" style="color: blue;">
+                    
+                    
+                    Information regarding Admissions 2020
+                   
+                </a>
+                    <img src="img/new.gif" height="36" width="36" alt="new" />
+            </center>
+-->
+
+
+           <!--
+          <center>
+                 <marquee onMouseDown="this.stop()" onMouseOver="this.stop()" onMouseMove="this.stop()" onMouseOut="this.start()">
+                         <img src="img/new.gif" height="36" width="36" alt="new" /> 
+                        <strong>
+                     First Graduation day will be held on 14<sup>th</sup> March, 2019 (Thursday, Forenoon)
+                        </strong>
+                         <img src="img/new.gif" height="36" width="36" alt="new" /> <br/>
+                       <img src="img/new.gif" height="36" width="36" alt="new" />
+                <a href="pdf/2019/award ceremony invitation 2019.pdf" target="_blank" style="color: blue;">
+                    First Graduation day 2019 Invitation and Special Instructions to Graduates
+                </a>
+                    <img src="img/new.gif" height="36" width="36" alt="new" />
+                     
+                 </marquee>
+            </center>-->
+                 
+        
+        
+    </div>
+        <div style="background-color:#b53536;" class="navbar-fixed-top" >
+    <div class="row" style="padding-left:0px;">
+        <nav class="top-bar" data-topbar role="navigation"> 
+            <ul class="title-area" style="height:30px;"> <li class="name">  </li>
+                <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li> </ul>
+            <section class="top-bar-section">
+                <ul class="left" >
+                    <li class="has-dropdown"><a href="#"> About us</a>
+                        <ul class="dropdown"> 
+                            <li ><a href="itech.php">PSG iTech</a></li>
+                            <li ><a href="mgt.php">Management</a></li>
+                            <li  class="has-dropdown"><a href="#">Administration </a>
+                                <ul class="dropdown"> 
+                                    <li><a href="governing_council.php">Governing Council</a></li>
+
+
+<li><a href="Secretary.php">Secretary</a></li>                                   
+<li><a href="Principal.php">Principal</a></li>
+                                 
+                                     <!-- <li><a href="dean.php">Dean</a></li> -->
+                                    <li><a href="hod.php">HOD</a></li>
+                                     <li><a href="staff-profile.php">Staff</a></li>
+                                    <li class="has-dropdown"><a href="Committees.php">Committees</a>
+                                        <ul class="dropdown"> 
+                                            <li><a href="anti_ragging_committee.php">Anti-Ragging Committee</a></li>
+<li><a href="anti_harassment.php">Anti-Sexual Harassment Committee</a></li>
+<li><a href="grievance_redressal.php">Grievance Redressal Committee</a></li>
+                                            <li><a href="Discipline_and_Welfare_Committee.php">Discipline & Welfare Committee</a></li>
+                                            <li><a href="Complaints_cum_Redressal_Committee.php">Complaints cum Redressal Committee</a></li>
+                                            <li><a href="Planning_and_Monitoring_Board.php">Planning & Monitoring Board</a></li>
+                                            <li><a href="Campus_Monitoring_and_Flying_Squard.php">Campus Monitoring and Flying Squard</a></li>
+                                            <li><a href="womenemp.php">Women Empowerment Cell</a></li>
+                                        </ul>
+                                    </li>
+                                </ul>	
+                            </li> 
+                            <li ><a href="Facts_and_Figures.php">Facts and Figures</a></li>
+                        </ul>     
+                    </li>
+                    <li class="has-dropdown"> <a href="javascript:void(0)">Academics</a> 
+                        <ul class="dropdown">
+                            <li><a href="timetable.php">Academic Time Table</a></li>
+                            <li ><a href="au_regulations.php">AU Regulations</a></li>
+                             <li ><a href="calendar.php">Academic Calendar</a></li>
+                              <li ><a href="ugcourses.php">Courses Offered</a></li>
+                            <li><a href="admissions.php">Admissions</a></li>
+			   <li><a href="cut_off.php">Cut-off Details</a></li>
+                            
+                            <li class="has-dropdown"><a href="javascript:void(0)">Department</a>
+                                <ul class="dropdown">
+                                    <li><a href="civil.php">Civil Engg.</a></li>
+                                    <li><a href="cse.php">Computer Science & Engg.</a></li>
+                                    <li><a href="eee.php">Electrical & Electronics Engg.</a></li>
+                                    <li><a href="ece.php">Electronics & Communication Engg.</a></li>
+                                    <li><a href="mech.php">Mechanical Engg.</a></li>
+			            <li><a href="barch.php">Architecture</a></li>
+                                    <li><a href="chemistry.php">Chemistry</a></li>
+                                     <li><a href="english.php">English</a></li>
+                                    <li><a href="maths.php">Mathematics</a></li>
+                                    <li><a href="physics.php">Physics</a></li>
+                                    <li><a href="humanities.php">Humanities</a></li>
+                                      
+                                </ul>
+                            </li>         
+                            <li ><a href="exam.php">Exam</a></li>
+			    <li ><a href="results.php">Result Analysis</a></li>
+                            <li><a href="academic_perform.php">Academic Performance</a></li>                          
+                            <li ><a href="nptel.php">NPTEL</a></li> 
+                        </ul>
+                    </li> 
+
+                    <li class="has-dropdown"><a href="javascript:void(0)">Research</a>
+                        <ul class="dropdown">
+                            <!--<li><a href="Research_Advisory_Board.php">Research Advisory Board</a></li>-->
+                            <li><a target="_blank" href="publications_overall.php">Publications</a></li> 
+                            <li><a target="_blank" href="researchmeeting.php">Research Meeting</a></li>
+                            <li><a target="_blank" href="pdf/Sponsored_projects_Nov2021.pdf">Sponsored Projects</a></li>
+							<li><a target="_blank" href="pdf/Patent_data_2022_feb.pdf">Details of Patents</a></li>
+                            <li><a href="rsworkshop.php">Research Workshops</a></li>
+                            <li><a href="testing.php">Testing Facility</a></li>
+                           
+                        </ul>
+                    </li>
+                    <li><a href="itechcoe.php">Centres of Excellence</a>
+
+                    </li>
+                    <li class="has-dropdown"><a href="javascript:void(0)">Facilities</a>
+                        <ul class="dropdown">
+                           
+                           
+                            
+<li><a href="ictfacilities.php">ICT Facilities</a></li>
+<li><a href="moodle.php">Learning Management System(MOODLE)</a></li>
+
+                            <li><a href="Seminar-hall.php">Seminar Halls</a></li>
+                           
+<li><a href="Hostels.php">Hostels</a></li>
+                           <li><a href="medicalcare.php"> Medical Centre</a></li> 
+<li><a href="Transport.php"> Transport</a></li> 
+<li><a href="StaffQuarters.php">Staff Quarters</a></li> 
+<li><a href="pdf/group_insurance_2021_22.pdf" target="_blank">Group Insurance</a></li>
+                            </li>	     
+                        </ul>
+                    </li>
+                    <li class="has-dropdown"><a href="javascript:void(0)">Industry Interface</a>
+                        <ul class="dropdown">
+			    <li><a href="industrialcollaboration.php"> Industry-Institute Interaction Cell</a></li> 
+			<li class="has-dropdown"><a href="javascript:void(0)">MOU</a>
+							<ul class="dropdown">
+							   <li><a href="MOU.php">List of MoUs</a></li>
+							   <li><a href="pdf/PSG_iTech_MoUs_Consolidated_Data _Signed MoUs15_09_2020.pdf">Consolidated Data</a></li> 
+                            
+                            
+                            
+							   
+							
+							</ul>
+							
+							</li>
+		            <li><a href="itechiac.php">Industry Academia Conclave</a></li> 
+                            <li><a href="Consultancy.php"> Consultancy</a></li>
+ 
+                        </ul>
+                    </li>
+                    
+                     <li class="has-dropdown"><a href="javascript:void(0)">Student Zone</a>
+                        <ul class="dropdown">
+                            <li><a href="clubs.php">Clubs</a>
+                         <li><a target="_blank" href="http://students.psgitech.ac.in/"> Student Info</a></li>
+ <li><a target="_blank" href="http://studentsfeedback.psgitech.ac.in">Student - Feedback</a></li>
+                          <li><a href="studunion.php"> Students Union </a></li> 
+<li><a href="studentscholarship.php"> Scholarship </a></li>
+                         <li><a href="http://lms.psgitech.ac.in/" target="_blank">E Learning System (Moodle)</a></li>
+			 <li><a href="beyondclassroom.php">Beyond Classroom Activities</a>
+			<li><a target="_blank" href="https://sites.google.com/psgitech.ac.in/psg-itech-alumni-association/home">Alumni Association</a></li>
+
+                          <!--<li><a href="https://yuktaha.psgitech.ac.in/"> Yukta: </a></li>--> 
+                          
+                         <li><a target="_blank" href="/emortals17/"> Eco Kart</a></li> 
+                          <!--<li><a href="electric-car.php"> Formula Electric Race Car</a></li>--> 
+                           <li class="has-dropdown"><a href="javascript:void(0)">Internships</a>
+                        <ul class="dropdown">
+                            <li><a target="_blank" href="pdf/mou_netiit.pdf">AICTE (NETiit for interships in Taiwan)</a></li> 
+                        </ul>
+                           </li>  
+                          <li><a href="sports-archive.php"> Sports Achievements</a></li> 
+                        </ul>
+                    </li> 	
+                   
+                            
+                          
+                    <li ><a href="http://library.psgitech.ac.in/" target="_blank">Library</a>    
+                           <li><a href="http://placements.psgitech.ac.in" target="_blank">Placements</a>
+                                          <li><a href="itechiqac.php">IQAC</a>
+                     
+                    <li class="has-dropdown"><a href="javascript:void(0)">Grievances Portal</a>
+                        <ul class="dropdown">
+                            <li><a href="https://forms.gle/ERW54PPsFcWqwhKr6">Student</a>
+                         <li><a href="https://forms.gle/BoHHmW6jRSDFQhKe7"> Faculty</a></li> 
+                          <li><a href="https://forms.gle/Q9S21z1z75mTJTYq9"> Staff </a></li> 
+                         <li><a href="https://forms.gle/NCs2yGUukbYyvhJR8">Parent</a></li>
+                          <li><a href="https://forms.gle/J3XgonQ13Hq6FckK9"> Alumni </a></li>
+						   <li><a href="pdf/2020/Circular1.pdf"> Circular </a></li>
+                        </ul>
+                    </li> 
+                        </ul>           
+                
+            </section>
+        </nav>
+    </div>
+</div>
+<script type='text/javascript' src='scroll_top/scrolltopcontrol.js'></script>
+        <script src="js/vendor/modernizr.js"></script>
+        <script src="js/jquery-1.11.1.min.js"></script>
+        <script src="js/12.js"></script> 
+</html>
+18022
+<script src="js/ticker.js"></script>
+<link rel="stylesheet" type="text/css" href="css/calendar/calendar.css" >
+<link rel="stylesheet" type="text/css" href="css/calendar/custom_2.css" >
+<script type="text/javascript" src="js/calendar/modernizr.custom.63321.js"></script>
+<script type="text/javascript" src="js/calendar/jquery.calendario.js"></script>
+<script src="home-slider/jssor.slider-22.2.16.min.js" type="text/javascript"></script>
+<script src="home-slider/slider1.js" type="text/javascript"></script>
+
+<style>
+    /* jssor slider bullet navigator skin 01 css */
+    /*
+    .jssorb01 div           (normal)
+    .jssorb01 div:hover     (normal mouseover)
+    .jssorb01 .av           (active)
+    .jssorb01 .av:hover     (active mouseover)
+    .jssorb01 .dn           (mousedown)
+    */
+    .jssorb01 {
+        position: absolute;
+    }
+    .jssorb01 div, .jssorb01 div:hover, .jssorb01 .av {
+        position: absolute;
+        /* size of bullet elment */
+        width: 12px;
+        height: 12px;
+        filter: alpha(opacity=70);
+        opacity: .7;
+        overflow: hidden;
+        cursor: pointer;
+        border: #000 1px solid;
+    }
+    .jssorb01 div { background-color: gray; }
+    .jssorb01 div:hover, .jssorb01 .av:hover { background-color: #d3d3d3; }
+    .jssorb01 .av { background-color: #fff; }
+    .jssorb01 .dn, .jssorb01 .dn:hover { background-color: #555555; }
+
+    /* jssor slider arrow navigator skin 05 css */
+    /*
+    .jssora05l                  (normal)
+    .jssora05r                  (normal)
+    .jssora05l:hover            (normal mouseover)
+    .jssora05r:hover            (normal mouseover)
+    .jssora05l.jssora05ldn      (mousedown)
+    .jssora05r.jssora05rdn      (mousedown)
+    .jssora05l.jssora05lds      (disabled)
+    .jssora05r.jssora05rds      (disabled)
+    */
+    .jssora05l, .jssora05r {
+        display: block;
+        position: absolute;
+        /* size of arrow element */
+        width: 40px;
+        height: 40px;
+        cursor: pointer;
+        background: url('img/a17.png') no-repeat;
+        overflow: hidden;
+    }
+    .jssora05l { background-position: -10px -40px; }
+    .jssora05r { background-position: -70px -40px; }
+    .jssora05l:hover { background-position: -130px -40px; }
+    .jssora05r:hover { background-position: -190px -40px; }
+    .jssora05l.jssora05ldn { background-position: -250px -40px; }
+    .jssora05r.jssora05rdn { background-position: -310px -40px; }
+    .jssora05l.jssora05lds { background-position: -10px -40px; opacity: .3; pointer-events: none; }
+    .jssora05r.jssora05rds { background-position: -70px -40px; opacity: .3; pointer-events: none; }
+    /* jssor slider thumbnail navigator skin 09 css */.jssort09-600-45 .p {    position: absolute;    top: 0;    left: 0;    width: 600px;    height: 45px;}.jssort09-600-45 .t {    font-family: verdana;    font-weight: normal;    position: absolute;    width: 100%;    height: 100%;    top: 0;    left: 0;    color:#fff;    line-height: 45px;    font-size: 20px;    padding-left: 10px;}
+</style>
+
+
+<div style="background-color:white; padding-bottom:0px;">
+
+    <div class="row" style="padding-top:10px;">
+        <div class="large-12 medium-12 small-12 columns">
+            <div class="large-3 medium-3 small-12 columns" style=" padding-right:0px;">
+                <div class="home_heading" >
+                    <strong style="color: black; font-size: 15px;"><u>Announcements & News Updates</u></strong>
+                </div>
+                <marquee direction="up" height="220" scrollAmount=2 scrollDelay=20 class="sidelink" onMouseDown="this.stop()" onMouseOver="this.stop()" onMouseMove="this.stop()" onMouseOut="this.start()" vspace="10">
+
+
+
+
+                    
+                            <a style="color:#000000; " href="news_events_detail.php?4YQ5WETR=20220215" target="_blank" >
+                                <p style="font-weight: bold; font-size: 13px; color: #000000; line-height: 18px; text-align: justify;">
+                                    Faculty Award Function 2021 (July-December), 16<sup>th</sup> Feb 2022                                </p> 
+                            </a> 
+                            <hr style="border-color: red;"/>
+
+
+                            
+                            <a style="color:#000000; " href="news_events_detail.php?4YQ5WETR=20220213" target="_blank" >
+                                <p style="font-weight: bold; font-size: 13px; color: #000000; line-height: 18px; text-align: justify;">
+                                    Third Alumni Meet on 12<sup>th</sup> Feb 2022                                </p> 
+                            </a> 
+                            <hr style="border-color: red;"/>
+
+
+                            
+                            <a style="color:#000000; " href="news_events_detail.php?4YQ5WETR=20220123" target="_blank" >
+                                <p style="font-weight: bold; font-size: 13px; color: #000000; line-height: 18px; text-align: justify;">
+                                    73<sup>rd</sup> Republic Day Celebrations 2022                                </p> 
+                            </a> 
+                            <hr style="border-color: red;"/>
+
+
+                            
+                            <a style="color:#000000; " href="news_events_detail.php?4YQ5WETR=20211221" target="_blank" >
+                                <p style="font-weight: bold; font-size: 13px; color: #000000; line-height: 18px; text-align: justify;">
+                                    Second International Conference on Materials, Design and Manufacturing for Sustainable Environment (ICMDMSE 2022), 11 and 12 Mar 2022                                </p> 
+                            </a> 
+                            <hr style="border-color: red;"/>
+
+
+                            
+                            <a style="color:#000000; " href="news_events_detail.php?4YQ5WETR=20210916" target="_blank" >
+                                <p style="font-weight: bold; font-size: 13px; color: #000000; line-height: 18px; text-align: justify;">
+                                    International Conference on SUSTAINABLE PRACTICES AND ADVANCEMENTS IN CIVIL ENGINEERING -2022 (SPACE 22), 11 and 12 Mar 2022                                </p> 
+                            </a> 
+                            <hr style="border-color: red;"/>
+
+
+                                            </marquee>
+
+                <a href="news_events_month.php?yr=2022&mn=03" style="text-align: right;" >More Events .......</a>      
+            </div>
+
+
+
+            <div class="large-6 medium-6 small-12 columns" style=" padding-right:0px; padding-top: 10px;">
+                <div id="jssor_1" style="position:relative;margin:0 auto;top:0px;left:0px;width:600px;height:300px;overflow:hidden;visibility:hidden;">
+                    <!-- Loading Screen -->
+                    <div data-u="loading" style="position:absolute;top:0px;left:0px;background-color:rgba(0,0,0,0.7);">
+                        <div style="filter: alpha(opacity=70); opacity: 0.7; position: absolute; display: block; top: 0px; left: 0px; width: 100%; height: 100%;"></div>
+                        <div style="position:absolute;display:block;background:url('img/loading.gif') no-repeat center center;top:0px;left:0px;width:100%;height:100%;"></div>
+                    </div>
+                    <div data-u="slides" style="cursor:default;position:relative;top:0px;left:0px;width:600px;height:300px;overflow:hidden;">
+                        
+                        
+                        <div>
+                            <img data-u="image" src="data1/images/2022/pattimandram.jpg" alt="image" />
+                            <div data-u="thumb" ><span style="font-size: 12px;">Dr. G.R.Damodaran Birthday Celebration | Tamil Patti Mandram, 22 Feb 2022</span></div>
+                        </div>
+                        
+                        <div>
+                            <img data-u="image" src="data1/images/2022/3_rd_graduation_day.jpg" alt="image" />
+                            <div data-u="thumb" ><span style="font-size: 12px;">3<sup>rd</sup> Graduation Day, 12 Feb 2022</span></div>
+                        </div>
+                        
+                        <div>
+                            <img data-u="image" src="data1/images/2022/3_rd_graduation_day_2.jpg" alt="image" />
+                            <div data-u="thumb" ><span style="font-size: 12px;">3<sup>rd</sup> Graduation Day, 12 Feb 2022</span></div>
+                        </div>
+                        
+                        
+                        <div>
+                            <img data-u="image" src="data1/images/2022/republic day.jpg" alt="image" />
+                            <div data-u="thumb" ><span style="font-size: 12px;">73<sup>rd</sup> Republic Day Celebrations, 26 Jan 2022</span></div>
+                        </div>
+                        
+<!--                        <div>
+                            <img data-u="image" src="data1/images/2022/voters_day.jpg" alt="image" />
+                            <div data-u="thumb" ><span style="font-size: 12px;">12<sup>th</sup> National Voters' Day - Pledge 2022</span></div>
+                        </div>-->
+                        
+                         <div>
+                             <img data-u="image" src="data1/images/2022/mobile app dev.jpg" alt="image" />
+                            <div data-u="thumb" ><span style="font-size: 12px;">"India Skills 2021" National Level Competition | 4'th Place | Mobile App Dev</span></div>
+                        </div>
+                        
+                        <div>
+                            <img data-u="image" src="data1/images/2021/Rank Holders.jpg" alt="image" />
+                            <div data-u="thumb" ><span style="font-size: 12px;">AU Rank Holders Cum Gold Medalsits (2017-2021 Batch)</span></div>
+                        </div>
+                        
+                        <div>
+                            <img data-u="image" src="data1/images/2021/QCFI award received.jpg" alt="image" />
+                            <div data-u="thumb" ><span style="font-size: 12px;">"QCFI Award" for making NCQC a grand success.</span></div>
+                        </div>
+                        
+                        <div>
+                            <img data-u="image" src="data1/images/2021/NBA POSTER.jpg" alt="image" />
+                            <div data-u="thumb" ><span style="font-size: 12px;">NBA Accreditation | 3 Years</span></div>
+                        </div>
+                        
+                        <div>
+                            <img data-u="image" src="data1/images/2021/nirf 2021 cert.jpg" alt="image" />
+                            <div data-u="thumb" ><span style="font-size: 12px;">"Rank - 131" | NIRF India Rankings 2021 - Engineering</span></div>
+                        </div>
+                        
+                        <div>
+                            <img data-u="image" src="data1/images/2021/NSS Special Camp 21 Dec.jpg" alt="image" />
+                            <div data-u="thumb" ><span style="font-size: 12px;">NSS Camp "Youth for Clean India"</span></div>
+                        </div>
+                        
+<!--                        <div>
+                            <img data-u="image" src="data1/images/2021/mou_sanfits.jpg" alt="image" />
+                            <div data-u="thumb" ><span style="font-size: 12px;">MoU Signed with Sandfits Foundries Pvt Ltd.</span></div>
+                        </div>-->
+                        
+<!--                        <div>
+                            <img data-u="image" src="data1/images/2021/KARAKURI KAIZEN.JPG" alt="image" />
+                            <div data-u="thumb" ><span style="font-size: 12px;">3 Day Residential Program "KARAKURI KAIZEN"</span></div>
+                        </div>-->
+                        
+<!--                        <div>
+                            <img data-u="image" src="data1/images/2021/mou signed with kart.jpg" alt="image" />
+                            <div data-u="thumb" ><span style="font-size: 12px;">MoU Signed with Kaar Technologies</span></div>
+                        </div>-->
+                        
+<!--                        <div>
+                            <img data-u="image" src="data1/images/2021/Orientation Programme.jpg" alt="image" />
+                            <div data-u="thumb" ><span style="font-size: 12px;">Orientation Programme - 2021 </span></div>
+                        </div>-->
+                        
+<!--                        <div>
+                            <img data-u="image" src="data1/images/2021/MoU Smart city.JPG" alt="image" />
+                            <div data-u="thumb" ><span style="font-size: 12px;">MoU signed with Coimbatore Smart City Limited</span></div>
+                        </div>-->
+<!--                        
+                        <div>
+                            <img data-u="image" src="data1/images/2021/stu union inu.JPG" alt="image" />
+                            <div data-u="thumb" ><span style="font-size: 12px;">Inauguration of Students' Union 2021-22</span></div>
+                        </div>-->
+                        
+<!--                        <div>
+                            <img data-u="image" src="data1/images/2021/ECE Assoctaion Inu.jpg" alt="image" />
+                            <div data-u="thumb" ><span style="font-size: 12px;">Inauguration of ECE Association and IETE Students Forum</span></div>
+                        </div>
+                        -->
+                        
+                        <div>
+                            <img data-u="image" src="data1/images/2021/IAP INAUGURATION.jpg" alt="image" />
+                            <div data-u="thumb" ><span style="font-size: 12px;">PSG IAP Inauguration</span></div>
+                        </div>
+<!--                        
+                        
+                        <div>
+                            <img data-u="image" src="data1/images/2021/supporting staff meeting.jpg" alt="image" />
+                            <div data-u="thumb" ><span style="font-size: 12px;">"Supporting Staff Meeting" to create an awareness of NBA</span></div>
+                        </div>-->
+                        
+<!--                        <div>
+                            <img data-u="image" src="data1/images/2021/stu_union2021.jpg" alt="image" />
+                            <div data-u="thumb" ><span style="font-size: 12px;">Office Bearers of Student's Union 2021 - 22</span></div>
+                        </div>-->
+<!--                        
+                        <div>
+                            <img data-u="image" src="data1/images/2021/Staffday.jpg" alt="image" />
+                            <div data-u="thumb" ><span style="font-size: 12px;">Staff Day Celebrations - 2021</span></div>
+                        </div>-->
+<!--                        
+                         <div>
+                             <img data-u="image" src="data1/images/2021/independence day 2021.jpg" alt="image" />
+                            <div data-u="thumb" ><span style="font-size: 12px;">75th Independence Day Celebrations</span></div>
+                        </div>
+                        -->
+<!--                        <div>
+                            <img data-u="image" src="data1/images/2021/Faculty Awards 2021.jpg" alt="image" />
+                            <div data-u="thumb" ><span style="font-size: 12px;">Faculty Awards Function - 2021</span></div>
+                        </div>-->
+<!--                        
+                        <div>
+                            <img data-u="image" src="data1/images/2021/ncc inaugural.jpg" alt="image" />
+                            <div data-u="thumb" ><span style="font-size: 12px;">NCC Inaugural Ceremony - 2021</span></div>
+                        </div>-->
+                        
+                        
+                        
+<!--                        <div>
+                            <img data-u="image" src="data1/images/2021/annul day celb.jpg" alt="image" />
+                            <div data-u="thumb" ><span style="font-size: 12px;">7'th Annual Day Celebrations | Daksha 2021</span></div>
+                        </div>-->
+                        
+                        
+<!--                        <div>
+                            <img data-u="image" src="data1/images/2021/phrase3.JPG" alt="image" />
+                            <div data-u="thumb" ><span style="font-size: 12px;">AICTE-ISTE Sponsored Induction Programme Phase III | 22-28 Apr 2021 </span></div>
+                        </div>-->
+                          
+<!--                        <div>
+                            <img data-u="image" src="data1/images/2021/THARANGINI RELESE.JPG" alt="image" />
+                            <div data-u="thumb" ><span style="font-size: 12px;">Tarangini Launch (Volume-6 Issue-2)  </span></div>
+                        </div>-->
+<!--                        
+                        <div>
+                            <img data-u="image" src="data1/images/2021/WEBNAR ON NEP.jpg" alt="image" />
+                            <div data-u="thumb" ><span style="font-size: 12px;">Webinar on Implementation of (NEP)2020 </span></div>
+                        </div>
+                        -->
+<!--                        
+                        <div>
+                            <img data-u="image" src="data1/images/2021/Yuktha.jpg" alt="image" />
+                            <div data-u="thumb" ><span style="font-size: 12px;">National Level Technical Symposium YUKTA - 2021</span></div>
+                        </div>-->
+                        
+                        
+<!--                        <div>
+                            <img data-u="image" src="data1/images/2021/graduation2.jpeg" alt="image" />
+                            <div data-u="thumb" ><span style="font-size: 12px;">Second Graduation Day Ceremony - 2021</span></div>
+                        </div> 
+                        -->
+                        
+<!--                        <div>
+                            <img data-u="image" src="data1/images/2021/graduation1.jpeg" alt="image" />
+                            <div data-u="thumb" ><span style="font-size: 12px;">Second Graduation Day Ceremony - 2021</span></div>
+                        </div> -->
+<!--                        
+                        <div>
+                            <img data-u="image" src="data1/images/2021/alumini2.jpeg" alt="image" />
+                            <div data-u="thumb" ><span style="font-size: 12px;">Second Alumni Meet - 2021</span></div>
+                        </div> 
+                        -->
+<!--                        
+                        <div>
+                            <img data-u="image" src="data1/images/2021/cseconf.jpg" alt="image" />
+                            <div data-u="thumb" ><span style="font-size: 12px;">1st International Conference on Next Generation Computing Systems ICNGCS - 2021</span></div>
+                        </div> -->
+                        
+<!--                        <div>
+                            <img data-u="image" src="data1/images/2021/womensday2021.jpg" alt="image" />
+                            <div data-u="thumb" ><span style="font-size: 12px;">International Women's Day Celebration at PSGiTech</span></div>
+                        </div> -->
+                        
+<!--                        <div>
+                            <img data-u="image" src="data1/images/2021/Pricipal Installation.jpg" alt="image" />
+                            <div data-u="thumb" ><span style="font-size: 12px;">Installation Ceremony of New Principal - Dr. G. Chandramohan</span></div>
+                        </div> -->
+                        
+                        
+<!--                        <div>
+                            <img data-u="image" src="data1/images/2021/FRENCH_D.jpg" alt="image" />
+                            <div data-u="thumb" ><span style="font-size: 12px;">Interaction of French Delegates with PSGiTech Faculty members</span></div>
+                        </div> -->
+<!--                        
+                        
+                        <div>
+                            <img data-u="image" src="data1/images/2021/72nd_Republic_Day_3.jpg" alt="image" />
+                            <div data-u="thumb" ><span style="font-size: 12px;">72'nd Republic Day Celebration at PSGiTech</span></div>
+                        </div> 
+                        -->
+<!--                        <div>
+                            <img data-u="image" src="data1/images/2020/20201207.jpg" alt="image" />
+                            <div data-u="thumb" ><span style="font-size: 12px;">Civil Student Mr. G.Yogabalaji received GREE PIN Recognition 2020 from UNESCO</span></div>
+                        </div> -->
+                        
+<!--                         <div>
+                             <img data-u="image" src="data1/images/2020/20201204.JPG" alt="image" />
+                            <div data-u="thumb" ><span style="font-size: 12px;">EEE Department Signed MoU with Padmavahini Transformers - Coimbatore</span></div>
+                        </div> 
+                        -->
+<!--                                                     <div>
+                                                         <img data-u="image" src="data1/images/2020/20200815.jpg" alt="image" />
+                            <div data-u="thumb" ><span style="font-size: 12px;">74'th Independence Day Celebration at PSGiTech</span></div>
+                        </div> 
+                        -->
+<!--                        
+                             <div>
+                                 <img data-u="image" src="data1/images/2020/20200319.jpg" alt="image" />
+                            <div data-u="thumb" ><span style="font-size: 12px;">1'st International Conference | ICMDMSE 2020 - MECHANICAL | March 13-14</span></div>
+                        </div> 
+                        -->
+<!--                            <div>
+                                <img data-u="image" src="data1/images/2020/20200312.jpg" alt="image" />
+                            <div data-u="thumb" ><span style="font-size: 12px;">International Women's Day celebration 2020| Chief Guest - Ms.Divya Shetty(CEO PEPAA)</span></div>
+                        </div> -->
+                        
+<!--                              <div>
+                                  <img data-u="image" src="data1/images/2020/20200227.jpg" alt="image" />
+                            <div data-u="thumb" ><span style="font-size: 12px;">Civil Engineering Department signed MoU with Coimbatore Civil Engineers Association(COCENA) for students industrial training and placement.</span></div>
+                        </div> 
+                        -->
+                        
+                        
+<!--                        
+                             <div>
+                                 <img data-u="image" src="data1/images/2020/20200215.jpeg" alt="image" />
+                            <div data-u="thumb" ><span style="font-size: 12px;">Workshop On " Circular Economy in Sanitation - NPK Fertilizer, Carbon Recovery and Water Reuse" on 14th February 2020</span></div>
+                        </div> 
+                        -->
+                        
+<!--                         <div>
+                             <img data-u="image" src="data1/images/2020/20200210.jpeg" alt="image" />
+                            <div data-u="thumb" ><span style="font-size: 12px;">FIRST ALUMNI CONGRESS|ALUMNI ASSOCIATIONS</span></div>
+                        </div> -->
+                        
+<!--                         <div>
+                             <img data-u="image" src="data1/images/2020/20200211.jpg" alt="image" />
+                            <div data-u="thumb" ><span style="font-size: 12px;">PSG HEART-DAY MARATHON 2020</span></div>
+                         </div>-->
+<!--                        
+                        <div>
+                            <img data-u="image" src="data1/images/2020/20200207.jpeg" alt="image" />
+                            <div data-u="thumb" ><span style="font-size: 12px;">Tarangini Magazine release-YUKTAHA2020</span></div>
+                        </div> 
+                         -->
+                        
+<!--                        <div>
+                            <img data-u="image" src="data1/images/2020/20200208.jpeg" alt="image" />
+                            <div data-u="thumb" ><span style="font-size: 12px;">YUKTAHA 2020|Music events</span></div>
+                        </div>-->
+                        
+<!--                        <div>
+                            <img data-u="image" src="data1/images/2020/20200206.jpg" alt="image" />
+                            <div data-u="thumb" ><span style="font-size: 12px;">YUKTAHA 2020</span></div>
+                        </div>-->
+                        
+<!--                        <div>
+                            <img data-u="image" src="data1/images/2020/20200130.jpg" alt="image" />
+                            <div data-u="thumb" ><span style="font-size: 12px;">Research talk on "Data Science and Deep Learning models based approches for Industrial Applications" By CSE</span></div>
+                        </div> -->
+                        
+<!--                        <div>
+                            <img data-u="image" src="data1/images/2020/20200129.jpg" alt="image" />
+                            <div data-u="thumb" ><span style="font-size: 12px;">SAE BAJA competition for ATVs at Indore 21-26 JAN [17MECH,7EEE] Students</span></div>
+                        </div> -->
+                        
+<!--                        <div>
+                            <img data-u="image" src="data1/images/2020/20200128.jpg" alt="image" />
+                            <div data-u="thumb" ><span style="font-size: 12px;">71'st Republic Day Celebration at PSGiTech</span></div>
+                        </div> -->
+                        
+                       
+<!--                       
+                        
+                        <div>
+                            <img data-u="image" src="data1/images/2020/20200101.jpg" alt="image" />
+                            <div data-u="thumb" ><span style="font-size: 12px;">Pasco Lab Inauguration 2020</span></div>
+                        </div> -->
+<!--                        <div>
+                            <img data-u="image" src="data1/images/2020/20200102.jpg" alt="image" />
+                            <div data-u="thumb" ><span style="font-size: 12px;">Pasco Lab Inauguration 2020</span></div>
+                        </div>-->
+                        
+<!--                        <div>
+                            <img data-u="image" src="data1/images/2019/201912201.jpg" alt="image" />
+                            <div data-u="thumb" ><span style="font-size: 12px;">ISTE Students Convention 2019-20</span></div>
+                        </div>
+                        <div>
+                            <img data-u="image" src="data1/images/2019/201912202.jpg" alt="image" />
+                            <div data-u="thumb" ><span style="font-size: 12px;">ISTE Students Convention 2019-20</span></div>
+                        </div>-->
+                                          
+                        
+<!--                        <div>
+                            <img data-u="image" src="data1/images/2019/20191219.jpg" alt="image" />
+                            <div data-u="thumb" ><span style="font-size: 12px;">ISTE Student Convention Inaugural and Life Time Achievement Awardees 2019</span></div>
+                        </div>-->
+<!--                        <div>
+                            <img data-u="image" src="data1/images/2019/20191201.jpg" alt="image" />
+                            <div data-u="thumb" ><span style="font-size: 12px;">Guest Lecture on Nanoscale Science and Materials </span></div>
+                        </div> -->
+
+                         
+                  
+                        
+                        
+                        
+                        
+                        
+    <!--
+    
+    <div>
+                             <img data-u="image" src="data1/images/2019/20191203.jpg" alt="image" />
+                            <div data-u="thumb" ><span style="font-size: 12px;">A 3-Day Internship Programme on IOT & Sensor Interfacing</span></div>
+                        </div> 
+                       
+    
+     <div>
+                            <img data-u="image" src="data1/images/2019/20191204.jpeg" alt="image" />
+                            <div data-u="thumb" ><span style="font-size: 12px;"> Six-Day FDTP on EC 8651-TRANSMISSION LINES AND RF SYSTEMS</span></div>
+                        </div> 
+    <div>
+                            <img data-u="image" src="data1/images/2019/20191202.jpg" alt="image" />
+                            <div data-u="thumb" ><span style="font-size: 12px;">NSS Camp 2019-2020</span></div>
+                        </div> 
+    
+    <div>
+                            <img data-u="image" src="data1/images/2019/20191112.JPG" alt="image" />
+                            <div data-u="thumb" ><span style="font-size: 12px;"> A lecture on “Time Management”</span></div>
+                        </div>  
+                        <div>
+                             <img data-u="image" src="data1/images/2019/20191111.jpg" alt="image" />
+                            <div data-u="thumb" ><span style="font-size: 12px;">One day hands-on training programme on 
+“Microsoft office Word, Excel and Power Point” 
+</span></div>
+                        </div> 
+                        <div>
+                            <img data-u="image" src="data1/images/2019/20191105.JPG" alt="image" />
+                            <div data-u="thumb" ><span style="font-size: 12px;">Introduction to Ayurveda</span></div>
+                        </div>  
+                        <div>
+                            <img data-u="image" src="data1/images/2019/20191004.JPG" alt="image" />
+                            <div data-u="thumb" ><span style="font-size: 12px;">IEI Student chapter Inaugural</span></div>
+                        </div>  
+                        <div>
+                            <img data-u="image" src="data1/images/2019/20190920.jpg" alt="image" />
+                            <div data-u="thumb" ><span style="font-size: 12px;">IECCP Phase-I </span></div>
+                        </div>  -->
+  <!--                      <div>
+                            <img data-u="image" src="data1/images/2019/20190921.jpg" alt="image" />
+                            <div data-u="thumb" ><span style="font-size: 12px;">IECCP Phase-I </span></div>
+                        </div>  
+                        <div>
+                            <img data-u="image" src="data1/images/2019/20190919.jpg" alt="image" />
+                            <div data-u="thumb" ><span style="font-size: 12px;">Visit of Dr Mohammed Khasawneh </span></div>
+                        </div>  
+                        <div>
+                            <img data-u="image" src="data1/images/2019/20190906.JPG" alt="image" />
+                            <div data-u="thumb" ><span style="font-size: 12px;">Student Scholarship 2019-2020</span></div>
+                        </div>  
+                        <div>
+                            <img data-u="image" src="data1/images/2019/20190905.JPG" alt="image" />
+                            <div data-u="thumb" ><span style="font-size: 12px;">Student Scholarship 2019-2020</span></div>
+                        </div>  -->
+<!--                        <div>
+                            <img data-u="image" src="data1/images/2019/20190901.JPG" alt="image" />
+                            <div data-u="thumb" ><span style="font-size: 12px;">FIT India Movement</span></div>
+                        </div>  
+
+                        <div>
+                            <img data-u="image" src="data1/images/2019/20190902.JPG" alt="image" />
+                            <div data-u="thumb" ><span style="font-size: 12px;">FIT India Movement</span></div>
+                        </div>  
+
+                        <div>
+                            <img data-u="image" src="data1/images/2019/20190903.JPG" alt="image" />
+                            <div data-u="thumb" ><span style="font-size: 12px;">FIT India Movement</span></div>
+                        </div> 
+
+                         <div>
+                            <img data-u="image" src="data1/images/2019/20190904.JPG" alt="image" />
+                            <div data-u="thumb" ><span style="font-size: 12px;">Medical Camp</span></div>
+                        </div> -->
+<!--                        <div>
+                            <img data-u="image" src="data1/images/2019/20190907.JPG" alt="image" />
+                            <div data-u="thumb" ><span style="font-size: 12px;">Industry-Academia Conclave 2019-20</span></div>
+                        </div> -->
+<!--                        <div>
+                            <img data-u="image" src="data1/images/2019/20190811.jpg" alt="image" />
+                            <div data-u="thumb" ><span style="font-size: 12px;">Award Function 2019 (Odd Semester)</span></div>
+                        </div> -->
+
+
+
+<!--                        <div>
+                            <img data-u="image" src="data1/images/2019/201907031.jpeg" alt="image" />
+                            <div data-u="thumb" ><span style="font-size: 12px;"></span></div>
+                        </div>               -->
+
+<!--                        <div>
+                            <img data-u="image" src="data1/images/2019/201907003.JPG" alt="image" />
+                            <div data-u="thumb" ><span style="font-size: 12px;"></span></div>
+                        </div>  
+                        <div>
+                            <img data-u="image" src="data1/images/2019/201907002.JPG" alt="image" />
+                            <div data-u="thumb" ><span style="font-size: 12px;"></span></div>
+                        </div>-->
+
+
+<!--                        <div>
+                            <img data-u="image" src="data1/images/2019/201901023.JPG" alt="image" />
+                            <div data-u="thumb" ><span style="font-size: 12px;">One Day ABET Accreditation Seminar & IUCEE Summit</span></div>
+                        </div>-->
+
+<!--                        <div>
+                            <img data-u="image" src="data1/images/2019/201901022.jpeg" alt="image" />
+                            <div data-u="thumb" ><span style="font-size: 14px;">Dept. of CSE Association Inaugural Function</span></div>
+                        </div>-->
+<!--                        <div>
+                            <img data-u="image" src="data1/images/2019/201901021.jpeg" alt="image" />
+                            <div data-u="thumb" ><span style="font-size: 14px;"></span></div>
+                        </div>-->
+
+
+<!--
+                        <div>
+                            <img data-u="image" src="data1/images/2019/201901019.jpg" alt="image" />
+                            <div data-u="thumb" ><span style="font-size: 14px;">International Yoga Day Celebrations 2019</span></div>
+                        </div>-->
+
+
+
+<!--                        <div>
+                            <img data-u="image" src="data1/images/2019/201901016.jpg" alt="image" />
+                            <div data-u="thumb" ><span style="font-size: 12px;">Six - Day FDP on CE8502 - Structural Analysis - I </span></div>
+                        </div>-->
+
+
+
+
+<!--                        <div>
+                            <img data-u="image" src="data1/images/2019/201901007.jpeg" alt="image" />
+                            <div data-u="thumb" ><span style="font-size: 13px;"></span></div>
+                        </div>-->
+
+                        <div>
+                            <img data-u="image" src="data1/images/2019/201901008.jpeg" alt="image" />
+                            <div data-u="thumb" ><span style="font-size: 13px;"></span></div>
+                        </div>
+
+<!--                        <div>
+                            <img data-u="image" src="data1/images/2019/201901009.jpeg" alt="image" />
+                            <div data-u="thumb" ><span style="font-size: 13px;"></span></div>
+                        </div>-->
+
+
+
+
+
+
+
+                    </div>
+                    <!-- Thumbnail Navigator -->
+                    <div data-u="thumbnavigator" class="jssort09-600-45" style="position:absolute;bottom:0px;left:0px;width:600px;height:45px;">
+                        <div style="position:absolute;top:0;left:0;width:100%;height:100%;background-color:#000;filter:alpha(opacity=40.0);opacity:0.4;"></div>
+                        <!-- Thumbnail Item Skin Begin -->
+                        <div data-u="slides" style="cursor: default;">
+                            <div data-u="prototype" class="p">
+                                <div data-u="thumbnailtemplate" class="t"></div>
+                            </div>
+                        </div>
+                        <!-- Thumbnail Item Skin End -->
+                    </div>
+                    <!-- Bullet Navigator -->
+                    <div data-u="navigator" class="jssorb01" style="bottom:16px;right:16px;">
+                        <div data-u="prototype" style="width:12px;height:12px;"></div>
+                    </div>
+                    <!-- Arrow Navigator -->
+                    <span data-u="arrowleft" class="jssora05l" style="top:0px;left:8px;width:40px;height:40px;" data-autocenter="2"></span>
+                    <span data-u="arrowright" class="jssora05r" style="top:0px;right:8px;width:40px;height:40px;" data-autocenter="2"></span>
+                </div>
+                <script type="text/javascript">jssor_1_slider_init();</script>
+                <a href="collegefunc.php" style="text-align: left; font-size: small;" >More photos...</a> 
+            </div>
+
+            <div class="large-3 medium-3 small-12 columns" style="left: 10px;">
+                <div class="home_heading" >
+                    <strong style="color: black;"> Reports and achievements</strong>
+                </div>
+                
+                <marquee direction="up" height="220" scrollAmount=2 scrollDelay=20 class="sidelink" onMouseDown="this.stop()" onMouseOver="this.stop()" onMouseMove="this.stop()" onMouseOut="this.start()" vspace="10">
+                    
+                     <p style="font-size: 14px; color: white; line-height: 18px; text-align: justify;" >
+                         <a href="pdf/2022/world mother language Day.pdf" target="_blank" style="color: blue; line-height: 18px; text-align: justify;">
+                               உலகத்தாய்மொழி தினம்  | ஐந்திணை தமிழ் மன்ற விழா - 23 பிப்ரவரி 2022
+                             
+                        </a>
+                    </p>
+                     <hr style="border-color: red;"/>
+                    
+                     <p style="font-size: 14px; color: white; line-height: 18px; text-align: justify;" >
+                         <a href="pdf/2022/pattimandram.pdf" target="_blank" style="color: blue; line-height: 18px; text-align: justify;">
+                               Report on Tamil Patti Mandram - 22<Sup>nd</sup> Feb 2022
+                             
+                        </a>
+                    </p>
+                     <hr style="border-color: red;"/>
+                    
+                    <p style="font-size: 14px; color: white; line-height: 18px; text-align: justify;" >
+                        <a href="pdf/2022/Report_Republic_Day_2022.pdf" target="_blank" style="color: blue; line-height: 18px; text-align: justify;">
+                                Report on 73<sup>rd</sup> Republic Day Celebrations, 26 January 2022
+                             
+                        </a>
+                    </p>
+                     <hr style="border-color: red;"/>
+                    
+                    <p style="font-size: 14px; color: white; line-height: 18px; text-align: justify;" >
+                        <a href="pdf/2022/sha Inauguration 03_01_2021.pdf" target="_blank" style="color: blue; line-height: 18px; text-align: justify;">
+                                Inauguration of Science and Humanities Association, 03 January 2022
+                             
+                        </a>
+                    </p>
+                     <hr style="border-color: red;"/>
+                    
+                    <p style="font-size: 14px; color: white; line-height: 18px; text-align: justify;" >
+                        <a href="pdf/2021/The NCC orientation programme24_deec.pdf" target="_blank" style="color: blue; line-height: 18px; text-align: justify;">
+                                Report on NCC Orientation Programme, 24 December 2021
+                             
+                        </a>
+                    </p>
+                     <hr style="border-color: red;"/>
+                    
+                    <p style="font-size: 14px; color: white; line-height: 18px; text-align: justify;" >
+                        <a href="pdf/2021/CATC 2021 Report.6TN.NCC12 dec.pdf" target="_blank" style="color: blue; line-height: 18px; text-align: justify;">
+                                NCC Annual Training Camp, 12 December 2021
+                             
+                        </a>
+                    </p>
+                     <hr style="border-color: red;"/>
+                    
+                    
+                    <p style="font-size: 14px; color: white; line-height: 18px; text-align: justify;" >
+                        <a href="pdf/2021/Final SANDFITS REPORT.pdf" target="_blank" style="color: blue; line-height: 18px; text-align: justify;">
+                                MoU Signed with Sandfits Foundries Pvt. Ltd., 25 November 2021
+                             
+                        </a>
+                    </p>
+                     <hr style="border-color: red;"/>
+                     
+                     
+                     <p style="font-size: 14px; color: white; line-height: 18px; text-align: justify;" >
+                         <a href="pdf/2021/NBA Exit Meeting Report.pdf" target="_blank" style="color: blue; line-height: 18px; text-align: justify;">
+                                Report on NBA Expert Team Visit, 12 to 14 November 2021
+                             
+                        </a>
+                    </p>
+                     <hr style="border-color: red;"/>
+                     
+                    
+                    <p style="font-size: 14px; color: white; line-height: 18px; text-align: justify;" >
+                        <a href="pdf/2021/Final Fire and Safety Report 2021.pdf" target="_blank" style="color: blue; line-height: 18px; text-align: justify;">
+                                Report on Safety Measures to be adopted in the event of Fire Accident, 08 November 2021
+                             
+                        </a>
+                    </p>
+                     <hr style="border-color: red;"/>
+                     
+                    
+                    <p style="font-size: 14px; color: white; line-height: 18px; text-align: justify;" >
+                        <a href="pdf/2021/Eco_club_Sapling Saviors.pdf" target="_blank" style="color: blue; line-height: 18px; text-align: justify;">
+                                Report on Tree Plantation Programme | International day of Climate Action, 30 October 2021
+                             
+                        </a>
+                    </p>
+                     <hr style="border-color: red;"/>
+<!--                     
+                     <p style="font-size: 14px; color: white; line-height: 18px; text-align: justify;" >
+                         <a href="pdf/2021/Report on 3D pritning workshop_oct28_30_2021.pdf" target="_blank" style="color: blue; line-height: 18px; text-align: justify;">
+                                Report on Hands on Training in Reverse Engineering by 3D Printing - 28 to 30 October 2021
+                             
+                        </a>
+                    </p>
+                     <hr style="border-color: red;"/>
+                    
+                    
+                    <p style="font-size: 14px; color: white; line-height: 18px; text-align: justify;" >
+                        <a href="pdf/2021/MoU_KTern.pdf" target="_blank" style="color: blue; line-height: 18px; text-align: justify;">
+                                Report on MoU signed with KTern.AI, 27 October 2021
+                             
+                        </a>
+                    </p>
+                     <hr style="border-color: red;"/>-->
+                     
+<!--                     
+                     
+                     
+                    <p style="font-size: 14px; color: white; line-height: 18px; text-align: justify;" >
+                        <a href="pdf/2021/Orientation 2021 Report.pdf" target="_blank" style="color: blue; line-height: 18px; text-align: justify;">
+                               Inauguration of First Year Students Orientation Programme, 20 October 2021
+                             
+                        </a>
+                    </p>
+                     <hr style="border-color: red;"/>
+                     -->
+                     
+<!--                     <p style="font-size: 14px; color: white; line-height: 18px; text-align: justify;" >
+                         <a href="pdf/2021/Students Union Inauguration 2021.pdf" target="_blank" style="color: blue; line-height: 18px; text-align: justify;">
+                               Report on the Inauguration of Students Union 2021, 11 October 2021
+                             
+                        </a>
+                    </p>
+                     <hr style="border-color: red;"/>
+                     
+                     <p style="font-size: 14px; color: white; line-height: 18px; text-align: justify;" >
+                         <a href="pdf/2021/MoU_CSCL_PSGiTech_Report.pdf" target="_blank" style="color: blue; line-height: 18px; text-align: justify;">
+                               Report on MoU signed with Coimbatore Smart City Limited, 09 October 2021
+                             
+                        </a>
+                    </p>
+                     <hr style="border-color: red;"/>-->
+                    
+<!--                    <p style="font-size: 14px; color: white; line-height: 18px; text-align: justify;" >
+                        <a href="pdf/2021/Indhinai Thamizh Mandram.pdf" target="_blank" style="color: blue; line-height: 18px; text-align: justify;">
+                               Report on Mahathmavum Mahakaviyum | Tribute Fest, 01 October 2021
+                             
+                        </a>
+                    </p>
+                     <hr style="border-color: red;"/>-->
+<!--                    
+                     <p style="font-size: 14px; color: white; line-height: 18px; text-align: justify;" >
+                         <a href="pdf/2021/NSS day report.pdf" target="_blank" style="color: blue; line-height: 18px; text-align: justify;">
+                               NSS Day Celebrations, 24 September 2021
+                             
+                        </a>
+                    </p>
+                     <hr style="border-color: red;"/>-->
+                    
+                    
+<!--                    <p style="font-size: 14px; color: white; line-height: 18px; text-align: justify;" >
+                        <a href="pdf/2021/Engineers day report.pdf" target="_blank" style="color: blue; line-height: 18px; text-align: justify;">
+                               Report on Engineer’s Day Celebration, 15 September 2021
+                             
+                        </a>
+                    </p>
+                     <hr style="border-color: red;"/>
+                    
+                    
+                     <p style="font-size: 14px; color: white; line-height: 18px; text-align: justify;" >
+                         <a href="pdf/2021/Staff Day.pdf" target="_blank" style="color: blue; line-height: 18px; text-align: justify;">
+                               Report on Staff Day Celebrations, 03 September 2021
+                             
+                        </a>
+                    </p>
+                     <hr style="border-color: red;"/>-->
+                    
+<!--                    <p style="font-size: 14px; color: white; line-height: 18px; text-align: justify;" >
+                        <a href="pdf/2021/ISTE_STTP_Inauguration Report 2021.pdf" target="_blank" style="color: blue; line-height: 18px; text-align: justify;">
+                               Report on Inauguration of ISTE approved STTP, 23 August 2021
+                             
+                        </a>
+                    </p>
+                     <hr style="border-color: red;"/>
+                     
+                    
+                    <p style="font-size: 14px; color: white; line-height: 18px; text-align: justify;" >
+                        <a href="pdf/2021/Alumni Talk Interested-Committed, 11 August 2021.pdf" target="_blank" style="color: blue; line-height: 18px; text-align: justify;">
+                                Report on Alumni Talk Interested-Committed, 11 August 2021
+                             
+                        </a>
+                    </p>
+                     <hr style="border-color: red;"/>-->
+                    
+<!--                    
+                    <p style="font-size: 14px; color: white; line-height: 18px; text-align: justify;" >
+                        <a href="pdf/2021/Strategies to get placed in CoreSoftware company, 3 August 2021.pdf" target="_blank" style="color: blue; line-height: 18px; text-align: justify;">
+                               Report on Strategies to get placed in Core/Software company, 3 August 2021
+                             
+                        </a>
+                    </p>
+                     <hr style="border-color: red;"/>
+                    
+                    
+                    <p style="font-size: 14px; color: white; line-height: 18px; text-align: justify;" >
+                        <a href="pdf/2021/Independence Day Celebrations Report 2021.pdf" target="_blank" style="color: blue; line-height: 18px; text-align: justify;">
+                               Report on 75th Independence Day Celebrations, 15 August 2021 
+                             
+                        </a>
+                    </p>
+                     <hr style="border-color: red;"/>-->
+                    
+<!--                    <p style="font-size: 14px; color: white; line-height: 18px; text-align: justify;" >
+                        <a href="pdf/2021/Faculty Awards january_june_2021.pdf" target="_blank" style="color: blue; line-height: 18px; text-align: justify;">
+                               Report on Faculty Awards Function, 02 August 2021  
+                             
+                        </a>
+                    </p>
+                     <hr style="border-color: red;"/>
+                    
+                    
+                    <p style="font-size: 14px; color: white; line-height: 18px; text-align: justify;" >
+                        <a href="pdf/2021/NCC Inauguration Report-20.7.2021.pdf" target="_blank" style="color: blue; line-height: 18px; text-align: justify;">
+                                Report on NCC Inaugural Ceremony, 20 July 2021  
+                             
+                        </a>
+                    </p>
+                     <hr style="border-color: red;"/>-->
+                     
+<!--                     
+                     
+                    <p style="font-size: 14px; color: white; line-height: 18px; text-align: justify;" >
+                        <a href="pdf/2021/Report on International Day of Yoga 2021.pdf" target="_blank" style="color: blue; line-height: 18px; text-align: justify;">
+                                Report on International Day of Yoga Celebrations, 21 June 2021
+                             
+                        </a>
+                    </p>
+                     <hr style="border-color: red;"/>
+                     
+                     
+                    
+                    <p style="font-size: 14px; color: white; line-height: 18px; text-align: justify;" >
+                        <a href="pdf/2021/Final Draft of Annual Day.pdf" target="_blank" style="color: blue; line-height: 18px; text-align: justify;">
+                                Report on 7th ANNUAL DAY CELEBRATION DAKSHA -2021, 16 June 2021
+                             
+                        </a>
+                    </p>
+                     <hr style="border-color: red;"/>-->
+                    
+                    
+<!--                    <p style="font-size: 14px; color: white; line-height: 18px; text-align: justify;" >
+                        <a href="pdf/2021/Report of Webinar on POWER - AWARE IC DESIGN june 12.pdf" target="_blank" style="color: blue; line-height: 18px; text-align: justify;">
+                                Report for Webinar on “POWER - AWARE IC DESIGN”, 12 June 2021
+                             
+                        </a>
+                    </p>
+                     <hr style="border-color: red;"/>
+                    
+                    
+                    
+                     <p style="font-size: 14px; color: white; line-height: 18px; text-align: justify;" >
+                         <a href="pdf/2021/Webinar Report - ST MICRO JIGME June 10.pdf" target="_blank" style="color: blue; line-height: 18px; text-align: justify;">
+                                Report for Webinar on “Physical Design and its role in Semiconductor Industry”, 10 June 2021
+                             
+                        </a>
+                    </p>
+                     <hr style="border-color: red;"/>
+                    
+          
+                
+                    
+                    <p style="font-size: 14px; color: white; line-height: 18px; text-align: justify;" >
+                        <a href="pdf/2021/Career Guidance and Counselling - Report-1-5.pdf" target="_blank" style="color: blue; line-height: 18px; text-align: justify;">
+                               Three-day Webinar on Career Guidance and Counselling, 09-11 June 2021
+                             
+                        </a>
+                    </p>
+                     <hr style="border-color: red;"/>
+                     
+                     
+                      <p style="font-size: 14px; color: white; line-height: 18px; text-align: justify;" >
+                         <a href="pdf/2021/Online guest lecture 5G Ramkumar may 22.pdf" target="_blank" style="color: blue; line-height: 18px; text-align: justify;">
+                                Report on Online Special Lecture “5G Open Source is the Future”, 22 May 2021
+                             
+                        </a>
+                    </p>
+                     <hr style="border-color: red;"/>-->
+                     
+<!--                     
+                     
+                    <p style="font-size: 14px; color: white; line-height: 18px; text-align: justify;" >
+                        <a href="pdf/2021/DigiTec Press Report 2021.pdf" target="_blank" style="color: blue; line-height: 18px; text-align: justify;">
+                               The Third International Conference on Digital Technologies for Design, Construction and Management (DigiTeC 2021) on 23-24 Apr 2021
+                             
+                        </a>
+                    </p>
+                     <hr style="border-color: red;"/>
+                     
+                     
+                     
+                     <p style="font-size: 14px; color: white; line-height: 18px; text-align: justify;" >
+                         <a href="pdf/2021/Final_ECE Phase III One Week Refresher Programme 2021.pdf" target="_blank" style="color: blue; line-height: 18px; text-align: justify;">
+                               AICTE-ISTE Sponsored Refresher/Induction Programme (Phase -III) on 22-28 Apr 2021
+                             
+                        </a>
+                    </p>
+                     <hr style="border-color: red;"/>-->
+                     
+   
+<!--                    
+                    <p style="font-size: 14px; color: white; line-height: 18px; text-align: justify;" >
+                        <a href="pdf/2021/Report on the Webinar on NEP 2020.pdf" target="_blank" style="color: blue; line-height: 18px; text-align: justify;">
+                               Webinar on Implementation of NEP(2020)  - 16 Apr 2021
+                             
+                        </a>
+                    </p>
+                     <hr style="border-color: red;"/>
+                    
+                    
+                    
+                    <p style="font-size: 14px; color: white; line-height: 18px; text-align: justify;" >
+                        <a href="pdf/2021/yuktha_winners.pdf" target="_blank" style="color: blue; line-height: 18px; text-align: justify;">
+                                National Level Technical Symposium YUKTA 2021 - Winners List 
+                             
+                        </a>
+                    </p>
+                     <hr style="border-color: red;"/>-->
+                    
+<!--                    
+                    <p style="font-size: 14px; color: white; line-height: 18px; text-align: justify;" >
+                        <a href="pdf/2021/Report on Research Interaction Meeting .pdf" target="_blank" style="color: blue; line-height: 18px; text-align: justify;">
+                                Report on Research Interaction Meeting - 09 Apr 2021
+                             
+                        </a>
+                    </p>
+                     <hr style="border-color: red;"/>
+                     
+                     
+                    
+                    <p style="font-size: 14px; color: white; line-height: 18px; text-align: justify;" >
+                        <a href="pdf/2021/Installation of Rotaract Club.pdf" target="_blank" style="color: blue; line-height: 18px; text-align: justify;">
+                                Installation of Rotaract Club at PSG iTech - 30 Mar 2021
+                             
+                        </a>
+                    </p>
+                     <hr style="border-color: red;"/>
+                    
+                    
+                    
+                    <p style="font-size: 14px; color: white; line-height: 18px; text-align: justify;" >
+                        <a href="pdf/2021/AICTE-ISTE Sponsored RefresherInduction Programme on 25-31 Mar 2021.pdf" target="_blank" style="color: blue; line-height: 18px; text-align: justify;">
+                               AICTE - ISTE Sponsored Refresher/Induction Programme on 25-31 Mar 2021
+                             
+                        </a>
+                    </p>
+                     <hr style="border-color: red;"/>
+                    
+                    
+                    <p style="font-size: 14px; color: white; line-height: 18px; text-align: justify;" >
+                        <a href="pdf/2021/Graduation_Report_2021.pdf" target="_blank" style="color: blue; line-height: 18px; text-align: justify;">
+                               Second Graduation Day Ceremony on 27 Mar 2021
+                             
+                        </a>
+                    </p>
+                     <hr style="border-color: red;"/>-->
+                    
+                    
+<!--                    
+                    <p style="font-size: 14px; color: white; line-height: 18px; text-align: justify;" >
+                        <a href="pdf/2021/Polymeet_Report_13_03_21.pdf" target="_blank" style="color: blue; line-height: 18px; text-align: justify;">
+                               One day Workshop on Engineering Excellence for Diploma Civil Engineering Students - 13 Mar 2021
+                             
+                        </a>
+                    </p>
+                     <hr style="border-color: red;"/>
+                     
+                     
+                     
+                    <p style="font-size: 14px; color: white; line-height: 18px; text-align: justify;" >
+                        <a href="pdf/2021/Women's Day Celebrations Report 2021.pdf" target="_blank" style="color: blue; line-height: 18px; text-align: justify;">
+                               Report on International Women’s Day Celebrations - 08 Mar 2021
+                             
+                        </a>
+                    </p>
+                     <hr style="border-color: red;"/>
+                    
+                    
+                    <p style="font-size: 14px; color: white; line-height: 18px; text-align: justify;" >
+                        <a href="pdf/2021/Installation_Ceremony2021.pdf" target="_blank" style="color: blue; line-height: 18px; text-align: justify;">
+                               Installation Ceremony of the New Principal Dr.G.Chandramohan - 24 Feb 2021
+                             
+                        </a>
+                    </p>
+                     <hr style="border-color: red;"/>
+                    
+                    
+                     <p style="font-size: 14px; color: white; line-height: 18px; text-align: justify;" >
+                         <a href="pdf/2021/Women_Empowerment_Dealing_with_Stress.pdf" target="_blank" style="color: blue; line-height: 18px; text-align: justify;">
+                               Women Empowerment Cell | Dealing with Stress on Current Times - 13 Feb 2021
+                             
+                        </a>
+                    </p>
+                     <hr style="border-color: red;"/>
+                    
+                    
+                    <p style="font-size: 14px; color: white; line-height: 18px; text-align: justify;" >
+                        <a href="pdf/2021/Republic_Day_Celebrations.pdf" target="_blank" style="color: blue; line-height: 18px; text-align: justify;">
+                               Report on Republic Day Celebrations - 26 Jan 2021
+                             
+                        </a>
+                    </p>
+                     <hr style="border-color: red;"/>
+                     
+                     
+                     <p style="font-size: 14px; color: white; line-height: 18px; text-align: justify;" >
+                         <a href="pdf/2021/Students_Union.pdf" target="_blank" style="color: blue; line-height: 18px; text-align: justify;">
+                               Students Union Inauguration on 23 Jan 2021
+                             
+                        </a>
+                    </p>
+                     <hr style="border-color: red;"/>
+                     
+                     
+                     
+                    
+                    <p style="font-size: 14px; color: white; line-height: 18px; text-align: justify;" >
+                        <a href="pdf/2021/report on the guest lecture delivered by Prof L.S Ganesh.pdf" target="_blank" style="color: blue; line-height: 18px; text-align: justify;">
+                               Report on Guest Lecture - Personal and Professional Ethics - 09 Jan 2021
+                             
+                        </a>
+                    </p>
+                     <hr style="border-color: red;"/>
+                    
+                    
+                    <p style="font-size: 14px; color: white; line-height: 18px; text-align: justify;" >
+                        <a href="pdf/2021/National_Mathematics_Day_Report.pdf" target="_blank" style="color: blue; line-height: 18px; text-align: justify;">
+                               National Mathematics Day Celebration on 02 Jan 2021
+                             
+                        </a>
+                    </p>
+                     <hr style="border-color: red;"/>
+                    
+                    <p style="font-size: 14px; color: white; line-height: 18px; text-align: justify;" >
+                        <a href="pdf/2020/3D_printing_report.pdf" target="_blank" style="color: blue; line-height: 18px; text-align: justify;">
+                               3D Printing Lecture Report on 12 Dec 2020
+                             
+                        </a>
+                    </p>
+                    
+                     <hr style="border-color: red;"/>
+                     
+                    <p style="font-size: 14px; color: white; line-height: 18px; text-align: justify;" >
+                        <a href="pdf/2020/SAE_Bycycle.pdf" target="_blank" style="color: blue; line-height: 18px; text-align: justify;">
+                              1'st Place in SAE India Southern Section conducted Bicycle Design Competition(BCDC) - 2020
+                             
+                        </a>
+                    </p>
+                    
+                     <hr style="border-color: red;"/>
+                    
+                    
+                    
+                    
+                    <p style="font-size: 14px; color: white; line-height: 18px; text-align: justify;" >
+                        <a href="pdf/2020/Greenpin_Yogabalaji.pdf" target="_blank" style="color: blue; line-height: 18px; text-align: justify;">
+                              PSGiTech Student received “GREE PIN Recognition 2020” from UNESCO
+                             
+                        </a>
+                    </p>
+                    
+                     <hr style="border-color: red;"/>
+                     
+                     
+                     <p style="font-size: 14px; color: white; line-height: 18px; text-align: justify;" >
+                         <a href="pdf/2020/MoU_Padmavahini.pdf" target="_blank" style="color: blue; line-height: 18px; text-align: justify;">
+                              Signed MoU with M/s. Padmavahini Transformers on 03 Dec 2020 
+                             
+                        </a>
+                    </p>
+                    
+                     <hr style="border-color: red;"/>
+                    
+                    
+                    <p style="font-size: 14px; color: white; line-height: 18px; text-align: justify;" >
+                        <a href="pdf/2020/Report on the talk Learning Experiences in PSG and the U.S.pdf" target="_blank" style="color: blue; line-height: 18px; text-align: justify;">
+                              Report on the talk - Learning Experiences in PSG and the U.S - 18 Nov 2020
+                             
+                        </a>
+                    </p>
+                    
+                     <hr style="border-color: red;"/>
+                    
+                    <p style="font-size: 14px; color: white; line-height: 18px; text-align: justify;" >
+                        <a href="pdf/2020/Alumni Talk on Overseas Internship Experiences and CAT Preparation.pdf" target="_blank" style="color: blue; line-height: 18px; text-align: justify;">
+                              Alumni Talk - Overseas Internship Experiences and CAT Preparation on 17 Nov 2020
+                             
+                        </a>
+                    </p>
+                    
+                     <hr style="border-color: red;"/>
+                    
+                    
+                    
+                    <p style="font-size: 14px; color: white; line-height: 18px; text-align: justify;" >
+                        <a href="pdf/2020/Alumni Talk on Leadership Skills new.pdf" target="_blank" style="color: blue; line-height: 18px; text-align: justify;">
+                              Alumni Talk - Leadership Skills on 12 Nov 2020
+                             
+                        </a>
+                    </p>
+                    
+                     <hr style="border-color: red;"/>
+                     
+                     
+                     <p style="font-size: 14px; color: white; line-height: 18px; text-align: justify;" >
+                        <a href="pdf/2020/Alumni Talk on How to Grab Opportunities for a Holistic Growth.pdf" target="_blank" style="color: blue; line-height: 18px; text-align: justify;">
+                              Alumni Talk - How to Grab Opportunities for a Holistic Growth? on 11 Nov 2020
+                             
+                        </a>
+                    </p>
+                    
+                     <hr style="border-color: red;"/>
+                    
+                   
+                    
+                    
+                    
+                    <p style="font-size: 14px; color: white; line-height: 18px; text-align: justify;" >
+                        <a href="pdf/2020/Alumni Talk on Leadership Skills .pdf" target="_blank" style="color: blue; line-height: 18px; text-align: justify;">
+                              Alumni Talk - Leadership Skills on 10 Nov 2020
+                             
+                        </a>
+                    </p>
+                    
+                     <hr style="border-color: red;"/>
+                     
+                     -->
+<!--                     
+                     <p style="font-size: 14px; color: white; line-height: 18px; text-align: justify;" >
+                         <a href="pdf/2020/Future Social Responsibilities of Youth in India Context.pdf" target="_blank" style="color: blue; line-height: 18px; text-align: justify;">
+                              Report on the talk - Future Social Responsibilities of Youth in India Context - 9 Nov 2020
+                             
+                        </a>
+                    </p>
+                    
+                     <hr style="border-color: red;"/>
+                    
+                    
+                     <p style="font-size: 14px; color: white; line-height: 18px; text-align: justify;" >
+                         <a href="pdf/2020/Alumni Talk on Transforming from a Student to a Professional.pdf" target="_blank" style="color: blue; line-height: 18px; text-align: justify;">
+                              Alumni Talk - Transforming from a Student to a Professional on 06 Nov 2020
+                             
+                        </a>
+                    </p>
+                    
+                     <hr style="border-color: red;"/>
+                    -->
+                    
+<!--                    <p style="font-size: 14px; color: white; line-height: 18px; text-align: justify;" >
+                        <a href="pdf/2020/Talk_Placement_Preparation.pdf" target="_blank" style="color: blue; line-height: 18px; text-align: justify;">
+                              Alumni Talk - Placement Preparation & Communication Skills on 05 Nov 2020
+                             
+                        </a>
+                    </p>
+                    
+                     <hr style="border-color: red;"/>-->
+                    
+                    
+<!--                    <p style="font-size: 14px; color: white; line-height: 18px; text-align: justify;" >
+                        <a href="pdf/2020/Induction_Report.pdf" target="_blank" style="color: blue; line-height: 18px; text-align: justify;">
+                              First Year Induction Programme on 04 Nov 2020
+                             
+                        </a>
+                    </p>
+                    
+                     <hr style="border-color: red;"/>-->
+                    
+                    
+                    
+<!--                    <p style="font-size: 14px; color: white; line-height: 18px; text-align: justify;" >
+                        <a href="pdf/2020/Scholarship.pdf" target="_blank" style="color: blue; line-height: 18px; text-align: justify;">
+                              Award of Merit Scholarship on 29 Oct 2020
+                             
+                        </a>
+                    </p>
+                    
+                     <hr style="border-color: red;"/>
+                    
+                    <p style="font-size: 14px; color: white; line-height: 18px; text-align: justify;" >
+                        <a href="pdf/2020/Achievements.pdf" target="_blank" style="color: blue; line-height: 18px; text-align: justify;">
+                              Achievements of our Students
+                             
+                        </a>
+                    </p>
+                    
+                     <hr style="border-color: red;"/>
+                    
+                    
+                    
+                     <p style="font-size: 14px; color: white; line-height: 18px; text-align: justify;" >
+                         <a href="pdf/2020/Novel_Femininity.pdf" target="_blank" style="color: blue; line-height: 18px; text-align: justify;">
+                             Guest Lecture - Novel Femininity on 23 Oct 2020
+                             
+                        </a>
+                    </p>
+                    
+                     <hr style="border-color: red;"/>
+                    
+                    <p style="font-size: 14px; color: white; line-height: 18px; text-align: justify;" >
+                        <a href="pdf/2020/Achievements_of_Faculty.pdf" target="_blank" style="color: blue; line-height: 18px; text-align: justify;">
+                             Achievements of Faculty
+                             
+                        </a>
+                    </p>
+                    
+                     <hr style="border-color: red;"/>-->
+                    
+<!--                    
+                    <p style="font-size: 14px; color: white; line-height: 18px; text-align: justify;" >
+                        <a href="pdf/2020/Navrathri_Report.pdf" target="_blank" style="color: blue; line-height: 18px; text-align: justify;">
+                             Navratri Golu Celebration on 23 Oct 2020
+                        </a>
+                    </p>
+                    
+                     <hr style="border-color: red;"/>
+                    
+                    
+                    <p style="font-size: 14px; color: white; line-height: 18px; text-align: justify;" >
+                        <a href="pdf/2020/AA_Associates.pdf" target="_blank" style="color: blue; line-height: 18px; text-align: justify;">
+                             Signed MoU with A&A Associates on 09 Oct 2020
+                        </a>
+                    </p>
+                    
+                     <hr style="border-color: red;"/>-->
+                    
+                    
+<!--                    <p style="font-size: 14px; color: white; line-height: 18px; text-align: justify;" >
+                        <a href="pdf/2020/Review_Meeting_Report.pdf" target="_blank" style="color: blue; line-height: 18px; text-align: justify;">
+                             Online Teaching and Learning Practices - Review Report on 29 Sep 2020
+                        </a>
+                    </p>
+                    
+                     <hr style="border-color: red;"/>
+                    
+                    
+                    <p style="font-size: 14px; color: white; line-height: 18px; text-align: justify;" >
+                        <a href="pdf/2020/Final_Research_Seminar Report.pdf" target="_blank" style="color: blue; line-height: 18px; text-align: justify;">
+                             Research Seminar Report on 28 Sep 2020
+                        </a>
+                    </p>
+                    
+                     <hr style="border-color: red;"/>-->
+                    
+                    
+<!--                    <p style="font-size: 14px; color: white; line-height: 18px; text-align: justify;" >
+                        <a href="pdf/2020/NSS_Report.pdf" target="_blank" style="color: blue; line-height: 18px; text-align: justify;">
+                             NSS Day Celebration Report on 25 Sep 2020
+                        </a>
+                    </p>
+                    
+                     <hr style="border-color: red;"/>-->
+                    
+                    
+                    
+<!--                     <p style="font-size: 14px; color: white; line-height: 18px; text-align: justify;" >
+                         <a href="pdf/2020/Report_Virtual Session.pdf" target="_blank" style="color: blue; line-height: 18px; text-align: justify;">
+                             Virtual Session for Online Laboratory Classes on 24 Sep 2020
+                        </a>
+                    </p>
+                    
+                     <hr style="border-color: red;"/>-->
+                    
+<!--                    
+                     <p style="font-size: 14px; color: white; line-height: 18px; text-align: justify;" >
+                         <a href="pdf/2020/Virtual_Session_on_Online_Teaching.pdf" target="_blank" style="color: blue; line-height: 18px; text-align: justify;">
+                             Virtual Session for Online Teaching on 23 Sep 2020
+                        </a>
+                    </p>
+                    
+                     <hr style="border-color: red;"/>-->
+                    
+                    
+<!--                    <p style="font-size: 14px; color: white; line-height: 18px; text-align: justify;" >
+                            <a href="pdf/2020/lateralentry2020.pdf" target="_blank" style="color: blue; line-height: 18px; text-align: justify;">
+                             Orientation for Lateral Entry Students on 05 Sep 2020
+                        </a>
+                    </p>
+                    
+                     <hr style="border-color: red;"/>-->
+<!--                    
+                    	<p style="font-size: 14px; color: white; line-height: 18px; text-align: justify;" >
+                            <a href="pdf/2020/NHAI-PSGiTech_MoU.pdf" target="_blank" style="color: blue; line-height: 18px; text-align: justify;">
+                             Signed MoU with NHAI on 14 Aug 2020
+                        </a>
+                    </p>
+                     <hr style="border-color: red;"/>
+                    
+                    
+                    
+                    
+                    
+					<p style="font-size: 14px; color: white; line-height: 18px; text-align: justify;" >
+                        <a href="pdf/2020/studentawardsACI2020.pdf" target="_blank" style="color: blue; line-height: 18px; text-align: justify;">
+                            2'nd Place in The ACI Concrete Convention & Exposition Spring 2021, USA
+                        </a>
+                    </p>
+                     <hr style="border-color: red;"/>-->
+					
+<!--                    <p style="font-size: 14px; color: white; line-height: 18px; text-align: justify;" >
+                        <a href="pdf/2020/Poly2020.pdf" target="_blank" style="color: blue; line-height: 18px; text-align: justify;">
+                            Workshop - Engineering Excellence on 28 Feb 2020 
+                        </a>
+                    </p>
+                     <hr style="border-color: red;"/>-->
+                    
+<!--                    
+                    <p style="font-size: 14px; color: white; line-height: 18px; text-align: justify;" >
+                        <a href="pdf/2020/dc2020.pdf" target="_blank" style="color: blue; line-height: 18px; text-align: justify;">
+                            English Literary Forum - Dumb Charade Competition on 26 Feb 2020
+                        </a>
+                    </p>
+                     <hr style="border-color: red;"/>-->
+                     
+<!--                     
+                     <p style="font-size: 14px; color: white; line-height: 18px; text-align: justify;" >
+                         <a href="pdf/2020/mou2020.pdf" target="_blank" style="color: blue; line-height: 18px; text-align: justify;">
+                            Signed MoU With CEBACA on 25 Feb 2020
+                        </a>
+                    </p>
+                     <hr style="border-color: red;"/>-->
+                     
+<!--                     <p style="font-size: 14px; color: white; line-height: 18px; text-align: justify;" >
+                         <a href="pdf/2020/IITDelhireport.pdf" target="_blank" style="color: blue; line-height: 18px; text-align: justify;">
+                            International Seminar - Geoenvironment at IIT Delhi on 21 Feb 2020
+                        </a>
+                    </p>
+                     <hr style="border-color: red;"/>-->
+                     
+<!--                     
+                    <p style="font-size: 14px; color: white; line-height: 18px; text-align: justify;" >
+                        <a href="pdf/2020/letstalk2020.pdf" target="_blank" style="color: blue; line-height: 18px; text-align: justify;">
+                            Let's Talk on 19 Feb 2020
+                        </a>
+                    </p>
+                     <hr style="border-color: red;"/>-->
+<!--                    <p style="font-size: 14px; color: white; line-height: 18px; text-align: justify;" >
+                        <a href="pdf/2020/republicday.pdf" target="_blank" style="color: blue; line-height: 18px; text-align: justify;">
+                            Republic Day Celebrations on 26 Jan 2020
+                        </a>
+                    </p>
+                     <hr style="border-color: red;"/>
+                    <p style="font-size: 14px; color: white; line-height: 18px; text-align: justify;" >
+                        <a href="pdf/2020/pongal.pdf" target="_blank" style="color: blue; line-height: 18px; text-align: justify;">
+                            Pongal Celebrations on 10 Jan 2020
+                        </a>
+                    </p>
+                     <hr style="border-color: red;"/>-->
+<!--                    <p style="font-size: 14px; color: white; line-height: 18px; text-align: justify;" >
+                        <a href="pdf/2019/siruthuli_R1.pdf" target="_blank" style="color: blue; line-height: 18px; text-align: justify;">
+                            Lake Restoration Project in association with Siruthuli - 13 Nov, 2019
+                        </a>
+                    </p>
+                    <hr style="border-color: red;"/>-->
+                    
+<!--                     <p style="font-size: 14px; color: white; line-height: 18px; text-align: justify;" >
+                        <a href="pdf/2019/education_day_R3.pdf" target="_blank" style="color: blue; line-height: 18px; text-align: justify;">
+                            National Education Day - 11 Nov,2019
+                        </a>
+                    </p>
+                    <hr style="border-color: red;"/>-->
+                    
+     <!--               <p style="font-size: 14px; color: white; line-height: 18px; text-align: justify;" >
+                        <a href="pdf/2019/msoffice_training_R4.pdf" target="_blank" style="color: blue; line-height: 18px; text-align: justify;">
+                            One day hands-on Training in MS Office - 9 Nov,2019
+                        </a>
+                    </p>
+                    <hr style="border-color: red;"/>
+                    
+                    <p style="font-size: 14px; color: white; line-height: 18px; text-align: justify;" >
+                        <a href="pdf/2019/vigilance_awareness_R2.pdf" target="_blank" style="color: blue; line-height: 18px; text-align: justify;">
+                            Vigilance Awareness Week - 28 Oct - 2 Nov,2019
+                        </a>
+                    </p>
+                    <hr style="border-color: red;"/>
+                    
+                   
+                    
+                    <p style="font-size: 14px; color: white; line-height: 18px; text-align: justify;" >
+                        <a href="pdf/2019/sh_fdp.pdf" target="_blank" style="color: blue; line-height: 18px; text-align: justify;">
+                            A one day Faculty Development Programme on "Student Centric Instructional Strategies" an initiative by the Department of Science and Humanities was held on Friday, 28th June 2019
+
+                        </a>
+                    </p>
+
+                    <hr style="border-color: red;"/>
+                    <p style="font-size: 14px; color: white; line-height: 18px; text-align: justify;" >
+                        <a href="pdf/2018/Award_function_dec_2018.pdf" target="_blank" style="color: blue; line-height: 18px; text-align: justify;">
+                            Award Function 2018 on 22<sup>nd</sup> December 2018
+
+                        </a>
+                    </p>
+                    <hr style="border-color: red;"/>
+                    <p style="font-size: 14px; color: white; line-height: 18px; text-align: justify;" >
+                        <a href="pdf/2018/201811280.pdf" target="_blank" style="color: blue; line-height: 18px; text-align: justify;">
+                            Guest Lecture on Applications of STEM (Science, Technology, Engineering, Mathematics)by Prof. Prasad K Yaglagadda, Queensland University of Technology, Australia
+
+                        </a>
+                    </p>
+                    <hr style="border-color: red;"/>
+
+                    <p style="font-size: 14px; color: white; line-height: 18px; text-align: justify;" >
+                        <a href="pdf/2018/201811270.pdf" target="_blank" style="color: blue; line-height: 18px; text-align: justify;">
+                            Mr. Santosh, Senior Manager, M/s. Bosch Rexroth Hydraulics, delivered a presentation on "Training Lab Facilities” on 27th November 2018 (Tuesday) at College Board Room
+
+                        </a>
+                    </p>
+                    <hr style="border-color: red;"/>
+
+                    <p style="font-size: 14px; color: white; line-height: 18px; text-align: justify;" >
+                        <a href="pdf/2018/201811240.pdf" target="_blank" style="color: blue; line-height: 18px; text-align: justify;">
+                            First year Mechanical Engineering students won Prizes in Engineering Graphics (e-graphie)
+
+                        </a>
+                    </p>
+
+
+-->
+
+
+                </marquee>
+
+                <a href="collegefunc.php" style="text-align: right;" >Archive.......</a>      
+            </div>
+
+
+        </div>
+
+
+
+    </div>
+</div>
+
+
+<div style="background-color:#2d407d; padding-bottom:0px;">
+
+    <div class="row" style="padding-top:20px;">
+        <div class="large-12 medium-12 small-12 columns">
+
+
+            <div class="large-3 medium-3 small-12 columns" style=" padding-bottom:00px;" >
+                <section class="main"  >
+
+
+                    <div class="custom-calendar-wrap" >
+                        <div id="custom-inner" class="custom-inner" >
+                            <div class="custom-header clearfix" >
+                                <nav>
+                                    <span id="custom-prev" class="custom-prev"></span>
+                                    <span id="custom-next" class="custom-next"></span>
+                                </nav>
+                                <h2 id="custom-month" class="custom-month">month</h2>
+                                <h3 id="custom-year" class="custom-year">year</h3>
+                            </div>
+                            <div id="calendar" class="fc-calendar-container" style="height: 200px;"  ></div>
+                        </div>
+                    </div>
+                </section>
+
+            </div>
+
+
+
+            <div class="large-3 medium-3 small-12 columns" style="margin-top:0px; padding-left:0px; padding-top: 60px; ">
+                <div class="pic" style="margin-top:0px;">
+                    <a style="color:#333333; font-family:'Open Sans'; font-weight:bold;" href="gallery.php">
+                        <img style="width:100%;" src="img/Central/central3.jpg" class="pic-image example-orbit" alt="Pic" />
+                        <span class="pic-caption bottom-to-top">
+                            <div>
+                                GALLERY
+                            </div>
+                        </span>
+                    </a>
+                </div>
+            </div>
+
+            <div class="large-3 medium-3 small-12 columns" style="margin-top:0px; padding-left:0px; padding-top: 60px; ">
+                <div class="pic" style="margin-top:0px;">
+                    <a style="color:#333333; font-family:'Open Sans'; font-weight:bold;" href="students-activities.php">
+                        <img style="padding-bottom:6px; width: 100%; height:170px" src="img/video_img/adavaya1.jpg" class="pic-image example-orbit" alt="Pic" />
+                        <span class="pic-caption bottom-to-top">
+                            <div>
+                                STUDENTS ACTIVITIES 
+                            </div>
+                        </span>
+                    </a>
+                </div>
+            </div>
+
+
+
+            
+            
+            <div class="large-3 medium-3 small-12 columns" style="padding-bottom:00px; padding-top: 0px;">
+                <a href="teaching_learning.php" target="_blank">
+                    <img src="img/onlin_test2.jpg"  class="example-orbit" alt="Tarangini" />
+                </a>
+                <br /> <br />
+
+                <a href="tarangini.php" target="_blank">
+                    <img src="img/tarangini.jpg"  class="example-orbit" alt="Tarangini" />
+                </a>
+                <br /><br />
+                
+                <a href="https://psgitech.irins.org/" target="_blank">
+                    <img src="img/irins2.jpg"  class="example-orbit" alt="Tarangini" />
+                </a>
+                
+                <!--                <a href="Campus-tour.php" target="_blank">
+                                    <img src="img/virtual_tour_button.png" style="width: 250px; height: 65px;"  class="example-orbit" alt="Campus Tour" />
+                                </a>-->
+                <br /><br />
+
+                <a href="http://www.psgsonscharities.org/" target="_blank">
+                    <img style="padding-bottom:6px;" src="img/psg_charitable_trust.jpg" class="example-orbit" alt="PSG " />
+                </a>
+
+            </div>
+        </div>
+
+
+
+    </div>
+</div>
+
+<div class="row" style="padding-top:5px; padding-bottom:5px;">
+    <div class="large-12 medium-12 small-12 columns" style="padding-left:0px;">
+        <div class="large-6 medium-6 small-12 columns" style="padding-bottom:5px;">
+            <div class="home_heading_1">Vision of the Institute</div>
+
+            <div class="title_style_2">To achieve excellence in education and research, and nurture engineers with 
+                ethics, who will face global challenges to serve industry and society.    </div>
+        </div>
+        <div class="large-6 medium-6 small-12 columns">
+            <div class="home_heading_1">Mission of the Institute</div>
+
+            <div class="title_style_2"><ul class="title_style_2">
+                    <li>To facilitate active learning and vocational training. </li>
+                    <li>To encourage and promote questioning spirit and 'can-do' entrepreneurial attitude.</li>
+                    <li>To foster industry - institute collaboration.</li>
+                    <li>To ignite passion for creative work and selfless service towards a sustainable world.</li>
+                    <li>To provide intellectually stimulating environment, conducive for research. </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div> 
+<div class="row hide-for-small-only">
+    <hr>
+</div>
+
+
+<div class="row" style="padding-top:5px; padding-bottom:5px;">
+    <div class="large-12 medium-12 small-12 columns" style="padding-left:0px;">
+        <div class="home_heading_1">Anna University Rank holders - 2017-2021 Batch </div>
+        <marquee loop="infinite" onMouseDown="this.stop()" onMouseOver="this.stop()" onMouseMove="this.stop()" onMouseOut="this.start()">
+            <img src="img/rankholders 2017-2021/1.jpg"/>
+            <img src="img/rankholders 2017-2021/final out 33 rework.jpg"/>
+            <img src="img/rankholders 2017-2021/3.jpg"/>
+              
+        </marquee>
+    </div>
+</div>
+<div class="row" align='right'>
+<a href="auscroll.php" target="_blank">View More...</a>
+
+</div>
+
+<!--<div class="row hide-for-small-only">
+    <hr>
+</div>
+
+<div class="row" style="padding-top:5px; padding-bottom:5px;">
+    <div class="large-12 medium-12 small-12 columns" style="padding-left:0px;">
+        <div class="home_heading_1">Anna University Rank holders - 2015-2019 Batch </div>
+        <marquee onMouseDown="this.stop()" onMouseOver="this.stop()" onMouseMove="this.stop()" onMouseOut="this.start()">
+            
+            <img src="img/rankholders 2015-2019/1.jpg"/>
+            <img src="img/rankholders 2015-2019/2.jpg"/>
+            <img src="img/rankholders 2015-2019/3.jpg"/>
+            <img src="img/rankholders 2015-2019/4.jpg"/>
+            
+        </marquee>
+    </div>
+</div>
+
+<div class="row hide-for-small-only">
+    <hr>
+</div>
+
+<div class="row" style="padding-top:5px; padding-bottom:5px;">
+    <div class="large-12 medium-12 small-12 columns" style="padding-left:0px;">
+        <div class="home_heading_1">Anna University Rank holders - 2014-2018 Batch </div>
+        <marquee onMouseDown="this.stop()" onMouseOver="this.stop()" onMouseMove="this.stop()" onMouseOut="this.start()">
+            
+            <img src="img/rankholders/1.jpg"/>
+            <img src="img/rankholders/2.jpg"/>
+            <img src="img/rankholders/3.jpg"/>
+            <img src="img/rankholders/4.jpg"/>
+            
+            
+        </marquee>
+    </div>
+</div> -->
+
+
+
+
+
+<div class="row hide-for-small-only">
+    <hr>
+</div>
+
+
+
+<div class="row hide-for-small-only" style="padding-left:10px; padding-bottom:0px;">
+    <div class="large-10 medium-10 small-12 columns">
+        <span class="home_heading_1" style="padding-right:5px;">Features:</span>       
+        <a class="footer_link_1" href="parentszone.php">Parent Zone</a>     
+        <img class="line_1" src="img/line.jpg" alt="line"/>        
+        <a class="footer_link_1" href="anti_ragging_committee.php"> Anti Ragging </a> 
+        <img class="line_1" src="img/line.jpg" alt="line"/>    
+        <a class="footer_link_1" href="https://forms.gle/NCs2yGUukbYyvhJR8">    Feedback  </a>  
+        <img class="line_1" src="img/line.jpg" alt="line"/>  
+        
+
+        <a class="footer_link_1" href="pdf/Mandatory Disclosure_2022.pdf" target="_blank"> Mandatory Disclosure</a>
+        
+        
+        <img class="line_1" src="img/line.jpg" alt="line"/> 
+        
+        <a class="footer_link_1" href="approvals.php"> Approvals</a>
+          <img class="line_1" src="img/line.jpg" alt="line"/> 
+        
+        <a class="footer_link_1" href="link.php"> Links</a>
+        <img class="line_1" src="img/line.jpg" alt="line"/> 
+        <a class="footer_link_1" href="auditedstmt.php"> Audit Statements</a>
+
+    </div>
+    <!--<div class="large-2 medium-2 small-2 columns">
+    <div style="float:right;"><a href="downloads.php"><input style="border:none; cursor:pointer;" type="button" value="Downloads" class="download_button"/></a></div>
+    </div>-->
+</div>
+<div class="row show-for-small-only" style="padding-left:10px; padding-bottom:5px;">
+    <div class="large-10 medium-10 small-12 columns">
+        <span class="home_heading_1" style="padding-right:5px;">Features:</span> <br />
+        <a class="footer_link_1" href="#">Parent Zone</a><br />      
+        <a class="footer_link_1" href="anti_ragging_committee.php"> Anti Ragging </a><br />
+        <a class="footer_link_1" href="Query.php">    Feedback  </a> <br />
+
+        <a class="footer_link_1" href="pdf/Mandatory Disclosure_2022.pdf" target="_blank"> Mandatory Disclosure</a><br />
+        <a class="footer_link_1" href="link.php"> Links</a><br />
+        <a class="footer_link_1" href="auditedstmt.php"> Audit Statements</a><br />
+
+    </div><br />
+    <!--<div class="small-12 columns" style="padding-top:5px;">
+    <div style="float:left;"><a href="downloads.php"><input style="border:none; cursor:pointer;" type="button" value="Downloads" class="download_button"/></a></div>
+    </div>-->
+</div>
+
+
+
+2484
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<div style="background-color:#ececec; padding-top:25px;">
+<div class="row">
+<div class="large-12 medium-12 small-12 columns"  style="padding-left:0px;">
+<div class="large-2 medium-2 small-12 columns"  style="padding-left:0px;">
+<ul style="list-style:none;">
+<li> <a class="footer_link_2" href="index.php">Home </a>     </li>
+<li><a class="footer_link_2" href="mgt.php">About Us  </a> </li>
+<li>
+    <a class="footer_link_2" href="annualreport.php" target="_blank"> Quarterly Report/Annual Report</a></li>
+<li><a class="footer_link_2" href="sitemap.php">Site Map</a></li>
+</ul>
+</div>     
+<div class="large-2 medium-2 small-12 columns"  style="padding-left:0px;">
+<ul style="list-style:none;">
+<li><a class="footer_link_2" href="pdf/Admission Brochure Final June 2021.pdf" target="_blank"> Brochure</a></li>
+<!--<li><a class="footer_link_2" href="Research_Advisory_Board.php">Research</a></li>
+<li><a class="footer_link_2" href="Industry_Advisory_Board.php">Industry Interface</a></li>-->
+<li><a traget="_blank" class="footer_link_2" href="http://lms.psgitech.ac.in/">E Learning System(moodle)</a></li>
+<li><a traget="_blank" class="footer_link_2" href="http://students.psgitech.ac.in/">Student Info</a></li>
+<li><a traget="_blank" class="footer_link_2" href="studentscholarship.php">Scholarship</a></li>
+<li><a traget="_blank" class="footer_link_2" href="https://sites.google.com/psgitech.ac.in/psg-itech-alumni-association/home">Alumni Association</a></li>
+</ul>
+</div>
+<div class="large-2 medium-2 small-12 columns"  style="padding-left:0px;">
+<ul style="list-style:none;">
+<li><a class="footer_link_2" href="pdf/campus_map_Nov_2021_1.pdf">Campus Map</a></li>
+<li><a class="footer_link_2" href="sports-archive.php">Sports</a></li>
+<li><a class="footer_link_2" href="calendar.php">Academic Calendar</a></li>
+<li><a class="footer_link_2" href="beyondclassroom.php">Co-Cur Activites</a></li>
+<li><a class="footer_link_2" href="career.php">Careers</a></li>
+<li><a class="footer_link_2" href="contact.php">Contact us</a></li>
+</ul>
+</div>
+    
+<div class="large-6 medium-6 small-12 text-right columns" style="padding-top:10px; padding-right:0px; padding-bottom:10px;">
+    <span class="title_style_2" style="padding-right:10px; color:#8a8989;">Connect with us:</span>
+      <a href="https://www.facebook.com/psgitar" target="_blank" ><i class="fa fa-facebook-square" aria-hidden="true" style="font-size:38px;color:#3b5998"></i></a>
+      <a href="https://plus.google.com/+psgitar" target="_blank" ><i class="fa fa-google-plus-square" aria-hidden="true" style="font-size:38px;color:#db4a39"></i></a>
+      <a href="https://twitter.com/psgitarofficial" target="_blank" ><i class="fa fa-twitter-square" aria-hidden="true" style="font-size:38px;color:#00acee"></i></a>
+      <a href="https://in.linkedin.com/in/psgitar" target="_blank" ><i class="fa fa-linkedin-square" aria-hidden="true" style="font-size:38px;color:#0e76a8"></i></a>
+      <a href="https://www.youtube.com/channel/UCKKixBjQDWjYAFS0MKgYlSg" target="_blank" ><i class="fa fa-youtube-square" aria-hidden="true" style="font-size:38px;color:#c4302b"></i></a>
+<!--      <a class="image_link" href="http://www.facebook.com/psgitar" target="_blank"><img width="28" height="28" src="img/icons/fb.png" alt="Image" /></a> 
+      <a class="image_link" href="https://plus.google.com/+psgitar" target="_blank"><img width="28" height="28" src="img/icons/gp.png" alt="Image" /></a> 
+      <a class="image_link" href="https://twitter.com/psgitarofficial" target="_blank"><img width="28" height="28" src="img/icons/tw.png" alt="Image" /> </a>
+      <a class="image_link" href="https://in.linkedin.com/in/psgitar" target="_blank"><img width="28" height="28" src="img/icons/ln.png" alt="Image" /> </a>
+	  <a class="image_link" href="https://www.youtube.com/channel/UCKKixBjQDWjYAFS0MKgYlSg" target="_blank"><img width="28" height="28" src="img/icons/yt.png" alt="Image" /> </a>-->
+        /psgitar
+</div>
+</div>
+<hr>
+</div>
+<div class="row" style="padding-bottom:20px;">
+<div class="large-12 medium-12 small-12 small-only-text-right columns" style="padding-left:0px;">
+<div class="large-8 medium-8 small-12 columns copy">
+Copyright © 2022 PSG INSTITUTE OF TECHNOLOGY AND APPLIED RESEARCH. All Rights Reserved.                                                                                                     
+</div>
+<div class="large-4 medium-4 small-12 text-right columns copy">
+    <div class="counter">
+      <!--Visitors Count:  <br/><b>Last Visit on: </b>-->
+</div>
+</div>
+</div>
+</div>
+</div>           
+   
+   <!-- <script src="js/vendor/jquery.js"></script>-->
+    <script src="js/foundation.min.js"></script>
+    <script>
+      $(document).foundation();
+    </script>
+       <script src="js/foundation.reveal.js"></script>
+        <script src="js/responsive-tables.js"></script>
+        <script type="text/javascript">
+  $(document).ready(function() {
+    $("#buttonForModal").click(function() {
+      $("#myModal").reveal();
+    });
+  });
+</script>
+       <script src="js/foundation/foundation.orbit.js"></script>
+       
+       <script type="text/javascript" src="slick/slick.js"></script>
+		<script type="text/javascript" src="js/scripts.js"></script>
+
+		<script>hljs.initHighlightingOnLoad();</script>
+
+		<script type="text/javascript">
+        var disqus_shortname = 'slickcarousel';
+
+        (function() {
+            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+    </script>
+   <!-- <script type="text/javascript" src="js/news_scroller.js"></script>
+    <script type="text/javascript" src="js/inewsticker.js"></script>
+    <script>
+	$(document).ready(function() {
+    $('#name').inewsticker({
+		speed       : 1500,
+		effect      : 'slide',
+		dir         : 'ltr',
+		font_size   : 13,
+		color       : '#fff',
+		font_family : 'arial',
+		delay_after : 200		
+	});
+});
+</script>-->
+    <script src="js/koalapse.js"></script>
+        <script>
+            $('.koalapse').koalapse();
+        </script>
+    
+    
+   <!-- <script src="vlb_engine/thumbscript1.js" type="text/javascript"></script>
+	<script src="vlb_engine/vlbdata1.js" type="text/javascript"></script> -->
+          
+
+  </body>
+</html>
+
+<script type="text/javascript">
+    var codropsEvents = {
+                    '02-16-2022': '<span>Faculty Award Function 2021 (July-December), 16<sup>th</sup> Feb 2022<a href="news_events_detail.php?4YQ5WETR=20220215  " target="_blank">View More..</a></span>',
+        
+
+    };
+    $(function () {
+
+        var transEndEventNames = {
+            'WebkitTransition': 'webkitTransitionEnd',
+            'MozTransition': 'transitionend',
+            'OTransition': 'oTransitionEnd',
+            'msTransition': 'MSTransitionEnd',
+            'transition': 'transitionend'
+        },
+                transEndEventName = transEndEventNames[ Modernizr.prefixed('transition') ],
+                $wrapper = $('#custom-inner'),
+                $calendar = $('#calendar'),
+                cal = $calendar.calendario({
+                    onDayClick: function ($el, $contentEl, dateProperties) {
+
+                        if ($contentEl.length > 0) {
+                            showEvents($contentEl, dateProperties);
+                        }
+
+                    },
+                    caldata: codropsEvents,
+                    displayWeekAbbr: true
+                }),
+                $month = $('#custom-month').html(cal.getMonthName()),
+                $year = $('#custom-year').html(cal.getYear());
+        $('#custom-next').on('click', function () {
+            cal.gotoNextMonth(updateMonthYear);
+        });
+        $('#custom-prev').on('click', function () {
+            cal.gotoPreviousMonth(updateMonthYear);
+        });
+        function updateMonthYear() {
+            $month.html(cal.getMonthName());
+            $year.html(cal.getYear());
+        }
+
+// just an example..
+        function showEvents($contentEl, dateProperties) {
+
+            hideEvents();
+            var $events = $('<div id="custom-content-reveal" class="custom-content-reveal"><h4>Events on <br/>' + dateProperties.monthname + ' ' + dateProperties.day + ', ' + dateProperties.year + '</h4></div>'),
+                    $close = $('<span class="custom-content-close"></span>').on('click', hideEvents);
+            $events.append($contentEl.html(), $close).insertAfter($wrapper);
+            setTimeout(function () {
+                $events.css('top', '0%');
+            }, 25);
+        }
+        function hideEvents() {
+
+            var $events = $('#custom-content-reveal');
+            if ($events.length > 0) {
+
+                $events.css('top', '100%');
+                Modernizr.csstransitions ? $events.on(transEndEventName, function () {
+                    $(this).remove();
+                }) : $events.remove();
+            }
+
+        }
+
+    });</script>
+0
+
